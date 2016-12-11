@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout">
+
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/testNumber"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp"
+        android:layout_marginLeft="@dimen/dim_10dp"
+        android:layout_marginTop="@dimen/dim_10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12 Dec 2015"
+        android:layout_marginTop="@dimen/dim_10dp"
+        android:layout_marginBottom="@dimen/dim_10"
+        android:id="@+id/testDate"
+        android:textColor="@color/secondary_text"
+        android:textSize="13sp"
+        android:layout_below="@+id/testNumber"
+        android:layout_alignLeft="@+id/testNumber"
+        android:layout_alignStart="@+id/testNumber" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10/10"
+        android:id="@+id/testAttempts"
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="@dimen/dim_5dp"
+        android:paddingTop="@dimen/dim_5dp"
+        android:gravity="center"
+        android:background="@drawable/bg_green_button"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/iv_start_quiz"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="@dimen/dim_10"
+        android:visibility="gone"
+        android:src="@drawable/ic_next"/>
+</RelativeLayout>

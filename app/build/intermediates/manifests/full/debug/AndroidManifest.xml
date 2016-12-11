@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.acmatics.securitygaurdexchange"
+    android:versionCode="19"
+    android:versionName="0.7.9" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <permission
+        android:name="com.acmatics.securityguardexchange.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.acmatics.securityguardexchange.permission.C2D_MESSAGE" />
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:name="com.acmatics.securityguardexchange.app.SecuritySkillsApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.acmatics.securityguardexchange.SplashScreenActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.acmatics.securityguardexchange.BookReaderActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.SignUpActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.VerifyOtpActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.ScratchCodeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.SelectLanguageActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.HomeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.ReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.PractiseTestActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.QuizListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.QuizAllReportsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.BooksActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.BookDetailsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.QuestionDescriptionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.TrainingVideosActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.NotificationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.OnlinePaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.StartTestActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.SearchAffiliatesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.BankDepositActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.VerifyNumberActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.AwardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.ProfileActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.PracticeListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.QuizActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.GuidlineVideos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.ImageShowFullView"
+            android:screenOrientation="portrait" />
+        <!-- video -->
+        <activity
+            android:name="com.acmatics.securityguardexchange.PlayerActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden" >
+            <meta-data
+                android:name="minVersion"
+                android:value="9" />
+            <meta-data
+                android:name="isLaunchableActivity"
+                android:value="true" />
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrainingVideosActivity" />
+        </activity>
+        <activity
+            android:name="com.acmatics.securityguardexchange.LyricsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.WebViewActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.StatusActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.ScanQRActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.AcademicRecordsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.FullViewVideo"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.acmatics.securityguardexchange.InteractiveSessionsBook"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+            android:authorities="com.acmatics.securitygaurdexchange.google_measurement_service"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

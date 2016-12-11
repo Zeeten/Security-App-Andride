@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/buy_online"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/paymentMethod"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/primary"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/app_font"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="53dp"
+            android:layout_marginStart="53dp"
+            android:text="@string/buy_online"
+            android:textColor="@color/white_color"
+            android:textSize="@dimen/txt_18"
+            android:layout_toLeftOf="@+id/imageView5"
+            android:layout_toStartOf="@+id/imageView5" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/ic_arrow_next" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/buy_affiliates"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/buy_online"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/primary">
+
+        <TextView
+            style="@style/app_font"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="53dp"
+            android:layout_marginStart="53dp"
+            android:text="@string/via_affiliates"
+            android:textColor="@color/white_color"
+            android:textSize="@dimen/txt_18"
+            android:layout_toLeftOf="@+id/imageView6"
+            android:layout_toStartOf="@+id/imageView6" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/ic_arrow_next" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bank_deposit"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/buy_affiliates"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/primary">
+
+        <TextView
+            style="@style/app_font"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="53dp"
+            android:layout_marginStart="53dp"
+            android:text="@string/bank_deposit"
+            android:textColor="@color/white_color"
+            android:textSize="@dimen/txt_18"
+            android:layout_toLeftOf="@+id/imageView7"
+            android:layout_toStartOf="@+id/imageView7" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/ic_arrow_next" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/paymentMethod"
+        style="@style/app_font"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/primary"
+        android:gravity="center"
+        android:text="@string/payment_methods"
+        android:textColor="@color/white_color"
+        android:textSize="@dimen/txt_20" />
+</RelativeLayout>

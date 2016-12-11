@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="district_array">
+        <item> ਜਿਲਾ ਚੁਨੇਂ </item>
+        <item> ਅਲਮੋੜਾ </item>
+        <item> ਅਸਮ </item>
+        <item> ਬਿਹਾਰ </item>
+        <item>गोवा</item>
+        <item> ਉਤਰਾਖੰਡ </item>
+        <item> ਗੁਜਰਾਤ </item>
+        <item> ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼ </item>
+    </string-array>
+    <string-array name="location_array">
+        <item> ਸਥਾਨ ਚੁਨੇਂ </item>
+        <item> ਆਂਧ੍ਰ  ਪ੍ਰਦੇਸ਼ </item>
+        <item> ਅਸਮ </item>
+        <item> ਬਿਹਾਰ </item>
+        <item> ਗੋਵਾ </item>
+        <item> ਉਤਰਾਖੰਡ </item>
+        <item>गुजरात</item>
+        <item> ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼ </item>
+    </string-array>
+    <string-array name="state_array">
+        <item> ਪ੍ਰਦੇਸ਼ ਚੁਨੇਂ </item>
+        <item> ਆਂਧ੍ਰ  ਪ੍ਰਦੇਸ਼ </item>
+        <item> ਅਸਮ </item>
+        <item> ਬਿਹਾਰ </item>
+        <item> ਗੋਵਾ </item>
+        <item> ਉਤਰਾਖੰਡ </item>
+        <item> ਗੁਜਰਾਤ </item>
+        <item> ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼ </item>
+    </string-array>
+    <string name="QuizlevelOne"> ਸੀ . ਏਸ . ਏਸ . ਡੀ ਕਵਿਜ ਪੱਧਰ  -  I </string>
+    <string name="QuizlevelThree"> ਸੀ . ਏਸ . ਏਸ . ਡੀ ਕਵਿਜ ਪੱਧਰ  -  III </string>
+    <string name="QuizlevelTwo"> ਸੀ . ਏਸ . ਏਸ . ਡੀ ਕਵਿਜ ਪੱਧਰ  -  II </string>
+    <string name="academe"> ਅਕਾਦਮੀ .  .  . </string>
+    <string name="academic_world_records"> ਸਿੱਖਿਅਕ ਵਰਲਡ ਰਿਕਾਰਡਸ </string>
+    <string name="accept"> ਸਵੀਕਾਰ ਕਰਣਾ </string>
+    <string name="activate_scratch_code"> ਸਕਰੈਚ ਕੋਡਾ ਸਰਗਰਮ ਕਰੋ </string>
+    <string name="address">ਪਤਾ</string>
+    <string name="advance">( ਉੱਨਤ )</string>
+    <string name="after_100_days">100 ਦਿਨਾਂ  ਦੇ ਬਾਅਦ </string>
+    <string name="answer_option_no">ABCDEF</string>
+    <string name="app_name">ਸਿਕਿਉਰਿਟੀ ਸਕਿਲਸ</string>
+    <string name="are_you_want_to_quit"> ਤੁਸੀ ਛੱਡਣਾ ਚਾਹੁੰਦੇ ਹੋ ? </string>
+    <string name="assamese">অসমীয়া</string>
+    <string name="attempt"> ਕੋਸ਼ਿਸ਼ </string>
+    <string name="award_notification_title"> ਇਨਾਮ ਅਧਿਸੂਚਨਾ </string>
+    <string name="awards"> ਇਨਾਮ </string>
+    <string name="back"> ਵਾਪਸ </string>
+    <string name="back_to_quiz"> ਵਾਪਸ ਕਵਿਜ ਲਈ </string>
+    <string name="bank_deposit"> ਬੈਂਕ ਜਮਾਂ </string>
+    <string name="bank_deposit_text"> ਤੁਸੀ SGX ਸਕਰੈਚ ਕੋਡ ਲਈ ਭੁਗਤਾਨੇ ਕਰਣ ਲਈ ਈਮੇਲ ਅਤੇ ਏਸਏਮਏਸ  ਦੇ ਮਾਧਿਅਮ ਵਲੋਂ ਸਾਡੇ ਬੈਂਕ ਟੀਕਾ ਪ੍ਰਾਪਤ ਹੋਵੇਗਾ </string>
+    <string name="basic">( ਆਧਾਰਭੂਤ )</string>
+    <string name="bengali">বাঙালি</string>
+    <string name="book1_description"> ਹੋਨਹਾਰ  ਗਾਰਡ ਕਿਤਾਬਾਂ ;  ਬੇਸਿਕ ਅਤੇ ਏਡਵਾਂਸ ਮੁੱਖ ਰੂਪ ਵਲੋਂ ਸੁਰੱਖਿਆ ਗਾਰਡ ਅਤੇ ਸੁਰੱਖਿਆ ਕਰਮਚਾਰੀਆਂ ਨੂੰ ਸੰਬੋਧਿਤ ਕਰ ਰਹੇ ਹਨ ।  ਇੱਕ ਦੇਵਤਾ ਵਿੱਚ ਦੋਨਾਂ ਕੰਮ  ਦੇ ਖੇਤਰ ਵਿੱਚ ਇੱਕ ਅਤੇ ਦੇਸ਼ ਭਰ ਵਿੱਚ ਵੱਖਰਾ ਸੁਰੱਖਿਆ ਅਤੇ ਜੁੜਿਆ ਸ਼ੁਲਕ ,  ਦਿਨ ਅਤੇ ਰਾਤ ਲਈ ਤੈਨਾਤ ਕੀਤੇ ਗਏ ਹਨ ਜੋ ਸੁਰੱਖਿਆ ਗਾਰਡ ਨੂੰ ਬੈਕਏੰਡ ਸਮਰਥਨ  ਦੇ ਰੂਪ ਵਿੱਚ ਸੇਵਾਰਤ ,  ਦਫ਼ਤਰ ਵਲੋਂ ਸੰਚਾਲਿਤ ਹੋਰ । </string>
+    <string name="book_details_book_title"> ਕਿਤਾਬਾਂ </string>
+    <string name="book_guide_line_url">cwZWh5WwXRc</string>
+    <string name="book_publisher"> ਕਿੱਸਮਤ ਇੰਟਰਨੇਸ਼ਨਲ ਪਬਲਿਕੇਸ਼ੰਸ </string>
+    <string name="book_title_1"> ਸਟੂਡੇਂਟ ਹੈਂਡਬੁਕ ਅਨਆਰਮਡ ਏੰਡ ਆਰਮਡ ਸਿਕਿਉਰਿਟੀ ਗਾਰਡਸ </string>
+    <string name="book_title_2"> ਰੇਕਿਗਨਿਸ਼ਨ ਆਫ਼ ਪ੍ਰਾਇਰ ਲਰਨਿੰਗ ਅਨਆਰਮਡ ਏੰਡ ਆਰਮਡ ਸਿਕਿਉਰਿਟੀ ਗਾਰਡਸ </string>
+    <string name="book_title_3"> ਪਾਰਟਿਸਿਪੇਂਟ ਹੈਂਡਬੁਕ ਅਨਆਰਮਡ ਸਿਕਿਉਰਿਟੀ ਗਾਰਡਸ </string>
+    <string name="book_title_4"> ਇੰਟਰਏਕਟਿਵ ਸ਼ੇਸ਼ਨ ਅਨਆਰਮਡ ਏੰਡ ਆਰਮਡ ਸਿਕਿਉਰਿਟੀ ਗਾਰਡਸ </string>
+    <string name="book_title_5"> ਤੁਸੀ ਬੰਨ ਸੱਕਦੇ ਹੋ \ n ਇੱਕ ਹੋਨਹਾਰ ਗਾਰਡ \ n ਕਿਤਾਬ 1  :  ਅਰੰਭ ਦਾ </string>
+    <string name="book_title_6"> ਤੁਸੀ ਬੰਨ ਸੱਕਦੇ ਹੋ \ n ਇੱਕ ਹੋਨਹਾਰ ਗਾਰਡ \ n ਕਿਤਾਬ 2  :  ਉੱਨਤ </string>
+    <string name="bookpage1"> ਇਸ ਭਾਗ ਵਿੱਚ ਤੁਹਾਨੂੰ ਹੈਂਡਬੁਕ ਅਤੇ ਇੰਟਰਏਕਟਿਵ ਸੇਸ਼ੰਸ ਦੀ ਬੁੱਕ ਮਿਲੇਂਗੀ  . ਕਿਸੇ ਵੀ ਬੁੱਕ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਣ ਲਈ ਉਸ ਬੁੱਕ ਉੱਤੇ ਕਲਿਕ ਕਰੀਏ ਅਤੇ ਡਾਉਨਲੋਡ ਹੋਣ ਤੱਕ ਇੰਤਜਾਰ ਕਰੋ . </string>
+    <string name="bookpage2"> ਇਸ ਬੁੱਕ ਉੱਤੇ ਕਲਿਕ ਕਰੋ . </string>
+    <string name="bookpage3"> ਜਦੋਂ ਡਾਉਨਲੋਡ ਕਰਣਾ ਹੋ ਤਾਂ ਇੱਥੇ ਕਲਿਕ ਕਰੋ .  ਬੁੱਕ ਆਪਣੇ ਆਪ ਤੁਹਾਡੇ ਮੋਬਾਇਲ ਵਿੱਚ ਡਾਉਨਲੋਡ ਹੋ ਜਾਵੇਗੀ ਅਤੇ ਡਾਉਨਲੋਡ ਹੋਣ  ਦੇ ਬਾਅਦ ਤੁਹਾਨੂੰ ਮੈਸੇਜ ਆਜਾਏਗਾ . </string>
+    <string name="books"> ਕਿਤਾਬਾਂ </string>
+    <string name="books_title"> ਕਿਤਾਬਾਂ </string>
+    <string name="btn_submit"> ਜਮਾਂ ਕਰੋ </string>
+    <string name="btn_text_pay_now"> ਹੁਣ ਆਨਲਾਇਨ ਭੁਗਤਾਨੇ ਕਰੋ </string>
+    <string name="buy_online"> ਆਨਲਾਇਨ ਖਰੀਦੋ </string>
+    <string name="buy_scratchcode"> ਸਕਰੈਚ ਕੋਡ ਖਰੀਦੀਆਂ ? </string>
+    <string name="by_s_kaul"> ਏਸ ਕੌਲ ਦਵਾਰਾ </string>
+    <string name="cancel">ਕੈਂਸਿਲ</string>
+    <string name="check">ਚੇਕ</string>
+    <string name="city">ਸ਼ਹਰ</string>
+    <string name="close">ਬੰਦ ਕਰੇ</string>
+    <string name="company_name">ਕੰਪਨੀ ਦਾ ਨਾਮ</string>
+    <string name="complete_the_test."> ਪ੍ਰੀਖਿਆ ਪੂਰਾ ਕਰੋ । </string>
+    <string name="continue_"> ਜਾਰੀ </string>
+    <string name="correct_answer"> ਠੀਕ ਜਵਾਬ </string>
+    <string name="country">ਦੇਸ਼</string>
+    <string name="cssd_quiz_guide_line_url">Nf37X9U9jus</string>
+    <string name="date"> ਤਾਰੀਖ </string>
+    <string name="day_remaining_in_your_trial_period"> ਤੁਹਾਡੇ ਪ੍ਰੀਖਿਆ ਮਿਆਦ ਵਿੱਚ ਬਾਕੀ ਦਿਨ </string>
+    <string name="days_remaining_in_your_trial_period"> ਤੁਹਾਡੇ ਪ੍ਰੀਖਿਆ ਮਿਆਦ ਵਿੱਚ ਬਾਕੀ ਦਿਨ </string>
+    <string name="decline"> ਅਪ੍ਰਵਾਨਗੀ ਕਰਣਾ </string>
+    <string name="description">ਵਿਵਰਣ</string>
+    <string name="description_small"> ਟੀਕਾ </string>
+    <string name="disclaimer"> ਤਿਆਗ </string>
+    <string name="dont_have_scratch_code"> ਸਕਰੈਚ ਕੋਡ ਨਹੀਂ ਹੈ </string>
+    <string name="download_book"> ਕਿਤਾਬ ਡਾਉਨਲੋਡ ਹੋ ਰਹੀ ਹੈ  .  .  . </string>
+    <string name="download_now"> ਹੁਣੇ ਡਾਉਨਲੋਡ ਕਰੋ </string>
+    <string name="edit"> ਸੇਵ ਕਰੋ </string>
+    <string name="email">ਈਮੇਲ</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="english_ver">( ਅਂਗ੍ਰੇਜੀ ਸੰਸਕਰਣ )</string>
+    <string name="enter_scratch_code"> ਸਕਰੈਚ ਕੋਡ ਏੰਟਰ ਕਰੇ </string>
+    <string name="error_message_address"> ਕ੍ਰਿਪਾ ਪਤਾ ਦਰਜ ਕਰੋ </string>
+    <string name="error_message_email"> ਕ੍ਰਿਪਾ ਇੱਕ ਆਦਰ ਯੋਗ ਈਮੇਲ ਪਤਾ ਦਰਜ ਕਰੋ </string>
+    <string name="error_message_max_10"> ਗਿਣਤੀ 10 ਅੰਕ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ । </string>
+    <string name="error_message_name"> ਆਪਣਾ ਨਾਮ ਦਰਜ ਕਰੋ </string>
+    <string name="error_message_number"> ਕ੍ਰਿਪਾ ਠੀਕ ਨੰਬਰ ਪਾਓ </string>
+    <string name="error_player">ਯੂ ਟਿਉਬ ਪਲੇਇਰ ਸ਼ੁਰੂ ਕਰਣ ਵਿੱਚ ਖਾਮੀਂ ਸੀ (%1$s)</string>
+    <string name="expired_trial_period"> ਪ੍ਰੀਖਿਆ ਮਿਆਦ ਖ਼ਤਮ ਹੋ ਗਿਆ ਹੈ </string>
+    <string name="feature_coming_soon"> ਛੇਤੀ ਹੀ ਆ ਜਾਵੇਗਾ .  .  . </string>
+    <string name="file_not_found"> ਫਾਇਲ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਈ </string>
+    <string name="forgot_code"> ਕੋਡ ਭੁੱਲ </string>
+    <string name="forgot_scratch_code"> ਸਕਰੈਚ ਕੋਡ ਭੁੱਲ ਗਏ ਹਨ ? </string>
+    <string name="free_trial">5 ਦਿਨਾਂ ਲਈ ਨਿ :  ਸ਼ੁਲਕ ਪ੍ਰੀਖਿਆ </string>
+    <string name="generating_otp"> ਓਟੀਪੀ ਸਿਰਜਣ ਹੋ ਰਿਹਾ ਹੇ  .  .  . </string>
+    <string name="generating_scratch_code"> ਸਕਰੈਚ ਕੋਡ ਜਨਰੇਟ ਹੋ ਰਿਹਾ ਹੇ  .  .  . </string>
+    <string name="get_scratch_code"> ਸਕਰੈਚ ਕੋਡ ਪ੍ਰਾਪਤ ਕਰੋ </string>
+    <string name="google_term_condition"> ਉਪਲੱਬਧ ਕਰਾਈ ਗਈ ਸਾਮਗਰੀ ਇਸ ਏਪਲਿਕੇਸ਼ਨ ਨੂੰ ਸਾਰਵਜਨਿਕ ਖੇਤਰ ਵਿੱਚ ਉਪਲੱਬਧ ਹੈ
+    + " ਪ੍ਰਦਾਨ ਦੀ ਸਾਰੇ ਵੀਡੀਓ ਯੂਟਿਊਬ ਉੱਤੇ ਸਾਰਵਜਨਿਕ ਰੂਪ ਵਲੋਂ ਉਪਲੱਬਧ ਹਨ ।"
+    + " ਤੁਸੀ ਆਪਣੇ ਕਾਪੀਰਾਇਟ ਉਲੰਘਣਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਦੇ ਹੋ ,  ਤਾਂ ਜ਼ਰੂਰੀ ਕਾੱਰਵਾਈ ਲਈ www.youtube.com ਅਤੇ ਅਨੁਰੋਧ ਸੰਪਰਕ ਕਰੋ ।"
+    + " ਅਸੀ ਸਟੀਕ ਜਾਣਕਾਰੀ ਪ੍ਰਦਾਨ ਕਰਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤਾ ਹੈ ,  ਅਸੀ ਜਾਣਕਾਰੀ ਦੀ ਸਟੀਕਤਾ ਲਈ ਕੋਈ ਜ਼ਿੰਮੇਦਾਰੀ ਨਹੀਂ ਇਸ ਏਪਲਿਕੇਸ਼ਨ  ਦੇ ਮਾਧਿਅਮ ਵਲੋਂ ਉਪਲੱਬਧ ਕਰਾਉਣ  ਦੇ ਮਾਨ ।"
+    + " ਇਸ ਏਪਲਿਕੇਸ਼ਨ ਨੂੰ 2 ਜੀ  /  3 ਜੀ  /  ਵਾਈਫਾਈ ਇੰਟਰਨੇਟ ਕਨੇਕਸ਼ਨ ਦੀ ਲੋੜ ਹੈ ।"</string>
+    <string name="grade_a"> ਗਰੇਡ : A</string>
+    <string name="grade_b"> ਗਰੇਡ : B</string>
+    <string name="grade_c"> ਗਰੇਡ : C</string>
+    <string name="grade_d"> ਗਰੇਡ : D</string>
+    <string name="grade_e"> ਗਰੇਡ : E</string>
+    <string name="guid"> ਗਾਇਡ </string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="hindi">हिंदी</string>
+    <string name="hindi_ver">( ਹਿੰਦੀ ਸੰਸਕਰਣ )</string>
+    <string name="home_title"> ਹੋਮ </string>
+    <string name="hundred_min"> ਸਮਾਂ  -  100 ਮਿੰਟ </string>
+    <string name="hundred_ques"> ਪ੍ਰਸ਼ਨ  -  100 </string>
+    <string name="incorrect_answer"> ਗਲਤ ਜਵਾਬ </string>
+    <string name="incorrect_otp"> ਗਲਤ ਓਟੀਪੀ  ।  ਓਟੀਪੀ ਫਿਰ ਵਲੋਂ ਜਾਂਚ ਕਰੀਏ ਅਤੇ ਫਿਰ ਵਲੋਂ ਦਰਜ ਕਰੋ </string>
+    <string name="inr_200.00"> ਭਾਰਤੀ ਰੁਪਿਆ 200 . 00 </string>
+    <string name="io_found"> IO ਮਿਲਿਆ </string>
+    <string name="isbn"> ਆਇ . ਏਸ . ਬੀ . ਏਨ . </string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="language_title"> ਭਾਸ਼ਾ </string>
+    <string name="levelOne"> ਪੱਧਰ  -  I </string>
+    <string name="levelThree"> ਪੱਧਰ - III</string>
+    <string name="levelTwo"> ਪੱਧਰ   - II</string>
+    <string name="load_book"> ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ .  .  . </string>
+    <string name="loading_affiliates_please_wait"> ਸਹਬੱਧੋਂ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ  .  .  .  ਕ੍ਰਿਪਾ ਉਡੀਕ ਕਰੋ </string>
+    <string name="loading_notification"> ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ ਸੂਚਨਾਵਾਂ  .  .  . </string>
+    <string name="main_guide_line_url">IQREA-PdZvk</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="marathi">मराठी</string>
+    <string name="minutes"> ਮਿੰਟ </string>
+    <string name="minutes_left"> ਮਿੰਟ ਬਾਕੀ </string>
+    <string name="mobile">ਮੋਬਾਇਲ</string>
+    <string name="name">ਨਾਮ</string>
+    <string name="navigation_drawer_close">ਬੰਦ ਨੇਵਿਗੇਸ਼ਨ ਦਰਾਜ</string>
+    <string name="navigation_drawer_open">ਔਪਨ ਨੇਵਿਗੇਸ਼ਨ ਦਰਾਜ</string>
+    <string name="next">ਅਗਲਾ</string>
+    <string name="no_internet"> ਕੋਈ ਇੰਟਰਨੇਟ ਨਹੀਂ  !  ! </string>
+    <string name="no_internet_message"> ਹੁਣੇ ਤੁਸੀ  ਨੈੱਟਵਰਕ ਵਲੋਂ ਕਨੇਕਟ ਨਹੀਂ ।  ਕ੍ਰਿਪਾ ਚਾਲੂ ਕਰੀਏ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਪੁੰਨ :  ਕੋਸ਼ਿਸ਼ ਕਰੋ । </string>
+    <string name="not_valid_scratch_code"> ਗਲਤ ਸਕਰੈਚ ਕੋਡ </string>
+    <string name="notification_title"> ਸੂਚਨਾਵਾਂ </string>
+    <string name="number_verification"> ਗਿਣਤੀ ਸਤਿਆਪਨ </string>
+    <string name="number_verification_sms_text"> ਤੁਹਾਡਾ ਮੋਬਾਇਲ ਨੰਬਰ ਤਸਦੀਕੀ ਨਹੀਂ ਹੈ ।  ਅਸੀ ਇਸ ਨੰਬਰ ਨੂੰ ਇੱਕ ਪੁਸ਼ਟਿਕਰਣ ਕੋਡ  ਦੇ ਨਾਲ ਇੱਕ ਏਸਏਮਏਸ ਭੇਜ ਦੇਵਾਂਗੇ । </string>
+    <string name="ok"> ਓਕੇ </string>
+    <string name="online_payment_text">ਵਿਵਰਣ ਦਰ੍ਜ ਔਰ ਸਬਮਿਟ ਕਰੇਂ। ਉਸਕੇ ਬਾਦ ਆਪਕੋ  ਈ-ਮੇਲ ਔਰ ਏਸਏਮਏਸ ਕੇ ਮਾਧ੍ਯਮ ਸੇ ਹਮਾਰੇ ਬੈਂਕ ਵਿਵਰਣ ਪ੍ਰਾਪ੍ਤ ਹੋਗਾ ਏਸਜੀਏਕ੍ਸ ਸ੍ਕ੍ਰੈਚ ਕੋਡ ਭੁਗਤਾਨ ਕਰਨੇ ਕੇ ਲਿਏ</string>
+    <string name="online_payment_title"> ਆਨਲਾਇਨ ਭੁਗਤਾਨੇ </string>
+    <string name="option_is"> ਵਿਕਲਪ ! </string>
+    <string name="or"> ਜਾਂ </string>
+    <string name="oriya">ନୀୟ</string>
+    <string name="otp">ਏੰਟਰ  ਔ . ਟੀ . ਪੀ .</string>
+    <string name="otp_error"> ਖਾਮੀਂ :  ਕੁੱਝ ਗਲਤ ਹੋ ਗਿਆ  ।  ਕ੍ਰਿਪਾ ਬਾਅਦ ਵਿੱਚ ਪੁੰਨ :  ਕੋਸ਼ਿਸ਼ ਕਰੋ । </string>
+    <string name="otp_receivied_on_number"> ਓਟੀਪੀ ਕੋਡ ਇਸ ਨੰਬਰ ਉੱਤੇ ਛੇਤੀ ਹੀ ਪ੍ਰਾਪਤ ਹੋ ਜਾਵੇਗਾ  : </string>
+    <string name="otp_screen_title"> ਤੁਹਾਡਾ ਨੰਬਰ ਤਸਦੀਕੀ ਕਰੋ </string>
+    <string name="payment_confirm_text">ਹਮੇ ਸਫਲਤਾਪੂਰਵਕ ਭੁਗਤਾਨੇ ਪ੍ਰਾਪਤ ਹੋਇਆ  ।  ਤੁਹਾਨੂੰ 8 ਅੰਕਾਂ ਦਾ ਏਕਟਿਵੇਸ਼ਨ ਕੋਡ ਤੁਹਾਡੇ ਪੰਜੀਕ੍ਰਿਤ ਮੋਬਾਇਲ ਅਤੇ ਤੁਹਾਡੇ ਈਮੇਲ ਵਿੱਚ ਪ੍ਰਾਪਤ ਹੋਣਗੇ  ।  ਕ੍ਰਿਪਾ ਪ੍ਰਾਪਤ ਹੋਇਆ ਏਕਟਿਵੇਸ਼ਨ ਕੋਡ ਤੁਸੀਂ ਅਪਲਿਕੇਸ਼ਨ ਵਿੱਚ ਏੰਟਰ ਕਰੇ ਅਤੇ ਮੁਨਾਫ਼ਾ ਚੁੱਕੇ  ।</string>
+    <string name="payment_deposit_text">ਹਮੇ ਸਫਲਤਾ ਪੂਰਵਕ  ਤੁਹਾਡਾ ਅਨੁਰੋਧ ਪ੍ਰਾਪਤ ਹੋਇਆ  ।  ਤੁਹਾਨੂੰ ਸਾਡਾ  ਈਮੇਲ ,  ਫੋਨ ਅਤੇ ਬੈਂਕ ਟੀਕਾ ਪ੍ਰਾਪਤ ਹੋਵੇਗਾ । 
+ਏਕਟਿਵੇਸ਼ਨ ਕੋਡ ਪ੍ਰਾਪਤ ਕਰਣ ਲਈ ਤੁਹਾਨੂੰ ਸਾਡੇ ਬੈਂਕ ਏ  /  ਸੀ ਵਿੱਚ  ਈਏਨਆਰ 120 . 00  ਜਮਾਂ  ਕਰਣ ਪੈਣਗੇ ਤੁਹਾਡੇ ਭੁਗਤਾਨੇ ਦੀ ਪੁਸ਼ਟੀ ਲਈ ਅਸੀ ਤੁਹਾਡੇ ਮੋਬਾਇਲ ਅਤੇ ਈ - ਮੇਲ ਉੱਤੇ ਏਕਟਿਵੇਸ਼ਨ ਕੋਡ ਭੇਜ ਦੇਵਾਂਗੇ।.</string>
+    <string name="payment_methods"> ਭੁਗਤਾਨੇ ਦੀ ਢੰਗ </string>
+    <string name="payment_successful">ਭੁਗਤਾਨੇ ਸਫਲ !!!</string>
+    <string name="pin_code">ਪਿਨ ਕੋਡ</string>
+    <string name="please_enter_valid_scratch_code"> ਕ੍ਰਿਪਾ ਠੀਕ ਸਕਰੈਚ ਕੋਡ ਏੰਟਰ ਕਰੇ </string>
+    <string name="plz_enter_otp">ਔ . ਟੀ . ਪੀ .  ਕੋਡ ਏੰਟਰ ਕਰੀਏ ਅਤੇ ਆਪਣਾ ਮੋਬਾਇਲ ਨੰਬਰ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="practice_test_guide_line_url">VkhXp1QIQDk</string>
+    <string name="practise_test"> ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ </string>
+    <string name="practise_test_small"> ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ </string>
+    <string name="proceed"> ਅੱਗੇ ਵਧੇ </string>
+    <string name="profile_title"> ਪ੍ਰੋਫਾਇਲ </string>
+    <string name="progress_text_register">ਉਪਯੋਗਕਰਤਾ ਰਜਿਸਟਰ  ।  ਕ੍ਰਿਪਾ ਉਡੀਕ ਕਰੋ .  .  .</string>
+    <string name="publisher"> ਪ੍ਰਕਾਸ਼ਕ </string>
+    <string name="publisher_name"> ਕਿੱਸਮਤ ਇੰਟਰਨੇਸ਼ਨਲ ਪਬਲਿਕੇਸ਼ੰਸ </string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="question"> ਸਵਾਲ -</string>
+    <string name="question_description_title"> ਪ੍ਰਸ਼ਨ ਟੀਕਾ </string>
+    <string name="questions"> ਸਵਾਲ </string>
+    <string name="quit">ਛੱਡੋ</string>
+    <string name="quiz">ਸੀ . ਏਸ . ਏਸ . ਡੀ .  ਕਵਿਜ </string>
+    <string name="quiz_list"> ਸੀ . ਏਸ . ਏਸ . ਡੀ .  ਕਵਿਜ </string>
+    <string name="quiz_question_title"> ਸੀ . ਏਸ . ਏਸ . ਡੀ .  ਕਵਿਜ </string>
+    <string name="quiz_results"> ਸੀ . ਏਸ . ਏਸ . ਡੀ ਪ੍ਰਸ਼ਨੋੱਤਰੀ ਨਤੀਜਾ </string>
+    <string name="re_download">ਬੁੱਕ ਫਿਰ ਵਲੋਂ ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="re_download_text">ਇਹ ਕਿਤਾਬ ਮੌਜੂਦ ਨਹੀਂ ਹੈ  ।  ਕ੍ਰਿਪਿਆ ਦੁਬਾਰਾ ਡਾਉਨਲੋਡ ਕਰੋ  ।</string>
+    <string name="re_test"> ਫਿਰ ਵਲੋਂ ਪ੍ਰੀਖਿਆ </string>
+    <string name="read_book"> ਕਿਤਾਬ ਪੜੋ .  .  . </string>
+    <string name="released_soon">( ਜਲਦੀ ਰਿਲੀਜ਼ ਹੋਵੇਗੀ )</string>
+    <string name="report"> ਰਿਪੋਰਟ </string>
+    <string name="request_couldnt_be_completed">ਤੁਹਾਡਾ ਅਨੁਰੋਧ ਇਸ ਸਮੇਂ ਪੂਰਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ।  ਕ੍ਰਿਪਾ ਬਾਅਦ ਵਿੱਚ ਪੁੰਨ :  ਕੋਸ਼ਿਸ਼ ਕਰੋ ।</string>
+    <string name="resend_otp">ਔ . ਟੀ . ਪੀ .  ਕੋਡ ਪੁੰਨ :  ਭੇਜੋ</string>
+    <string name="scan_qr"> ਸਕੈਨ ਕਿਊ - ਆਰ ਕੋਡ </string>
+    <string name="score"> ਸਕੋਰ </string>
+    <string name="scratch_code"> ਸਕਰੈਚ ਕੋਡ </string>
+    <string name="scratch_code_not_found"> ਸਕਰੈਚ ਕੋਡ ਨਹੀਂ ਮਿਲਿਆ </string>
+    <string name="scratch_code_sms_sent"> ਸਕਰੈਚ ਕੋਡ ਤੁਹਾਡੇ  ਨੰਬਰ ਉੱਤੇ ਭੇਜ ਦਿੱਤਾ ਜਾਵੇਗਾ । </string>
+    <string name="scratch_code_text"> ਸਕਰੈਚ ਕੋਡ ਤੁਹਾਡੀ ਹੈਂਡਬੁਕ ਵਿੱਚ ਦਿੱਤੀ ਗਈ ਹੈ </string>
+    <string name="search_affiliates_text"> ਹੇਠਾਂ ਦਿੱਤੇ ਗਏ ਵਿਕਲਪ ਵਲੋਂ ਆਪਣੇ ਸਥਾਨ ਫਿਲਟਰ ਕਰੇ  ਅਤੇ ਏਸਜੀਏਕਸ ਸਕਰੈਚ ਕਾਰਡ ਖਰੀਦਣ ਲਈ ਆਪਣੇ ਸਥਾਨ  ਦੇ ਆਸਪਾਸ ਸਾਥੀ ਕੰਪਨੀਆਂ ਨੂੰ ਖੋਜੇ  । </string>
+    <string name="search_affiliates_title"> ਖੋਜਾਂ ਸਹਬੱਧੋਂ </string>
+    <string name="select_lang">ਆਪਣੀ ਪਸੰਦ ਦੀ ਭਾਸ਼ਾ ਦਾ ਸੰਗ੍ਰਹਿ ਕਰੋ  ।</string>
+    <string name="sending_code_Please_wait"> ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ ਕੋਡ  .  .  .  ਕ੍ਰਿਪਾ ਉਡੀਕ ਕਰੋ । </string>
+    <string name="sgx_scratch_code"> ਏਸਜੀਏਕਸ ਸਕਰੈਚ ਕੋਡ </string>
+    <string name="share"> ਸ਼ੇਅਰ </string>
+    <string name="signup">ਸਾਇਨ ਅਪ</string>
+    <string name="sixty_min"> ਸਮਾਂ  -  60 ਮਿੰਟ </string>
+    <string name="sixty_ques"> ਪ੍ਰਸ਼ਨ  -  60 </string>
+    <string name="skip"> ਛੱਡੋ </string>
+    <string name="sms_confirmation"> ਤੁਹਾਡਾ ਮੋਬਾਇਲ ਨੰਬਰ ਤਸਦੀਕੀ ਨਹੀਂ ਹੈ ।  \ nਅਸੀ ਇਸ ਨੰਬਰ ਨੂੰ ਇੱਕ ਪੁਸ਼ਟਿਕਰਣ ਕੋਡ  ਦੇ ਨਾਲ ਇੱਕ ਏਸਏਮਏਸ ਭੇਜ ਦੇਵਾਂਗੇ । </string>
+    <string name="start_test"> ਪ੍ਰੀਖਿਆ ਸ਼ੁਰੂ </string>
+    <string name="start_trial_please_wait"> ਪ੍ਰੀਖਿਆ ਸ਼ੁਰੂ  .  .  .  ਕ੍ਰਿਪਾ ਉਡੀਕ ਕਰੋ । </string>
+    <string name="state">ਪ੍ਰਦੇਸ਼</string>
+    <string name="tag_attempted"> ਟੈਗ_ਕੋਸ਼ਿਸ਼ ਕੀਤਾ </string>
+    <string name="tag_test_id"> ਟੈਗ_ਪ੍ਰੀਖਿਆ_ਆਈਡੀ </string>
+    <string name="tamil">તમિલ</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="term_and_condition"> ਮੈਂ ਨਿੱਚੇ ਲਿਖੇ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ ਵਲੋਂ ਸਹਿਮਤ ਹਾਂ । </string>
+    <string name="test_number"> ਟੇਸਟ ਗਿਣਤੀ : </string>
+    <string name="test_reports"> ਪ੍ਰੀਖਿਆ ਰਿਪੋਰਟ </string>
+    <string name="testpage1"> ਇਸ ਭਾਗ ਵਿੱਚ ਤੁਹਾਨੂੰ ਲਗਾਤਾਰ ਤੁਸੀਂ ਹੁਨਰ ਨੂੰ ਵਧਾਉਣ ਦਾ ਮੌਕਾ ਮਿਲੇਗਾ .  ਜਿਸਦੇ ਲਈ ਇਸ ਭਾਗ ਵਿੱਚ ਤੁਹਾਨੂੰ ਤਿੰਨ ਲੇਵਲ  ਦੇ ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ ਲਈ ਸਹੂਲਤ ਹੈ .  ਪਹਿਲਾਂ ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ ਵਿੱਚ ਤੁਹਾਨੂੰ ੩੦ ਦਿਨ ਤੱਕ ਪ੍ਰਤੀ ਦਿਨ ੧੦ ਪ੍ਰਸ਼ਨ ਪ੍ਰੈਕਟਿਸ ਲਈ ਮਿਲੇਂਗੀ .  ਜਿਸ ਦਿਨ ਵਲੋਂ ਤੁਸੀ ਤਿਆਰੀ ਦਾ ਬਟਨ ਦਬਿਆ ਕਰ ਪ੍ਰੈਕਟਿਸ ਦੀ ਸ਼ੁਰੁਵਾਤ ਕਰਣਗੇ .  ਇਸ ਹਿਸਾਬ ਵਲੋਂ ਪਹਿਲਾਂ ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ ਵਿੱਚ ਤੁਸੀ ੩੦੦ ਪ੍ਰਸ਼ਨ ਜਵਾਬ  ਦੇ ਜਾਂਚ ਕਰ ਲੇਵਲ ੧ ਦਾ ਹੁਨਰ ਪ ਲਿਆ ਹੋਵੇਗਾ . </string>
+    <string name="testpage2"> ਇਸ ਪ੍ਰਕਾਰ ਤੁਹਾਨੂੰ ਦੂੱਜੇ ਅਤੇ ਤੀਸਰੇ ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ ਵਿੱਚ ੩੦੦ ਅਤੇ ੪੦੦ ਪ੍ਰਸ਼ਨ ਜਵਾਬ  ਦੇ ਜਾਂਚ ਕਰ ਲੇਵਲ ੨ ਅਤੇ ਲੇਵਲ ੩ ਦਾ ਹੁਨਰ ਪਾਉਣ  ਦੇ ਸਹੂਲਤ ਪ੍ਰਾਪਤ ਹੋਵੇਗੀ .  ਜਿਸ ਵਿੱਚ ਤੁਸੀ ੧੦੦੦ ਪ੍ਰਸ਼ਨ ਜਵਾਬ ਸਿੱਖ ਚੁੱਕੇ ਹੋਵੋਗੇ .  ਇਸ ਪ੍ਰੈਕਟਿਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਣ  ਦੇ ਬਾਅਦ ਤੁਸੀ ਕਵਿਜ ਕਾੰਪਿਟਿਸ਼ਨ ਵਿੱਚ ਹਿੱਸਾ ਲੈ ਕਰ ਚੰਗੇ ਖਾਸੇ  ਇਨਾਮ ਵੀ ਹਾਸਲ ਕਰ ਪਾਣਗੇ . </string>
+    <string name="testpage3"> ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ ਵਲੋਂ ਸਿਖਣ ਲਈ ਇਸ ਵਿੱਚ ਕਲਿਕ ਕਰੋ . </string>
+    <string name="testpage4"> ਪ੍ਰੀਖਿਆ ਸ਼ੁਰੂ ਕਰਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ . </string>
+    <string name="testpage5"> ਠੀਕ ਜਵਾਬ ਸੰਗ੍ਰਹਿ ਕਰਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ .  ਪ੍ਰਸ਼ਨ ਸੁਣਨ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ . </string>
+    <string name="testpage6"> ਚੁਣੇ ਗਏ ਜਵਾਬ ਨੂੰ ਚੇਕ ਕਰਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ . ਦਿੱਤੇ ਗਏ ਪ੍ਰਸ਼ਨ  ਦੇ ਟੀਕੇ ਵਿੱਖਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ . </string>
+    <string name="testpage7"> ਅੱਗੇ ਵਧਣ ਜਾਂ ਬਚੇ ਹੋਏ ਪ੍ਰਸ਼ਨਾਂ  ਦੇ ਜਵਾਬ ਦੇਣ ਲਈ ਇੱਥੇ ਕਲਿਕ ਕਰੋ . </string>
+    <string name="testpage8"> ਤੁਹਾਨੂੰ ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ ੧ ਪੂਰਾ ਕਰਣ  ਦੇ ਬਾਅਦ ਇਸ ਸਕਰੀਨ ਉੱਤੇ ਤੁਹਾਡਾ ਸਕੋਰ ਦੇਖਣ ਨੂੰ ਮਿਲੇਗਾ .  ਏਸੇ ਹੀ ਤੁਸੀ ਸਾਰੇ ਪ੍ਰੈਕਟਿਸ ਟੇਸਟ ਨੂੰ ਕਰਦੇ ਜਾਓ </string>
+    <string name="the_academic_community"> ਦ ਅਕਾਦਮਿਕ ਕੰਮਿਉਨਿਟੀ,</string>
+    <string name="the_academic_world"> ਦ ਅਕਾਦਮਿਕ ਵਰਲਡ ,</string>
+    <string name="thirty_min"> ਸਮਾਂ  -  30 ਮਿੰਟ </string>
+    <string name="thirty_ques"> ਪ੍ਰਸ਼ਨ  -  30 </string>
+    <string name="time"> ਸਮਾਂ </string>
+    <string name="time_up"> ਸਮਾਂ ਸਾਰਾ ਹੋਇਆ ! </string>
+    <string name="title_activity_lyrics">ਗੀਤ ਗਤੀਵਿਧੀ</string>
+    <string name="urdu">اردو</string>
+    <string name="validation_150_days"> ਵੈਧਤਾ 150 ਦਿਨ </string>
+    <string name="verify">ਤਸਦੀਕੀ ਕਰਣਾ</string>
+    <string name="verify_otp_title"> ਓਟੀਪੀ ਪੁਸ਼ਟੀ ਕਰੋ </string>
+    <string name="verify_scratch_code"> ਸਕਰੈਚ ਕੋਡ ਜਾਂਚ ਕਰੋ  .  .  . </string>
+    <string name="verifying_eligibility"> ਸਤਿਆਪਨ ਯੋਗਤਾ .  .  . </string>
+    <string name="verifying_otp"> ਓਟੀਪੀ ਪੁਸ਼ਟੀ ਹੋ ਰਿਹਾ ਹੇ  .  .  . </string>
+    <string name="via_affiliates"> ਸਾਥੀ ਕੰਪਨੀਆਂ  ਦੇ ਮਾਧਿਅਮ ਵਲੋਂ </string>
+    <string name="video_part_guide_line_url">2IpvLsjTKKA</string>
+    <string name="videopage1"> ਟ੍ਰੇਨਿੰਗ ਵੀਡੀਓ ਦੋ ਪ੍ਰਕਾਰ ਕੀਤੀ ਹੈ .  ਕੁੱਝ ਟ੍ਰੇਨਿੰਗ ਵੀਡਯੋਸ ਤੁਹਾਨੂੰ ਡਾਇਰੇਕਟ ਦੇਖਣ ਅਤੇ ਸਿਖਣ ਲਈ ਮਿਲੇਂਗੀ ਅਤੇ ਕੁੱਝ ਤੁਹਾਨੂੰ ਕਿਊ ਆਰ ਕੋਡ  ਦੇ ਦੁਆਰੇ ਦੇਖਣ ਅਤੇ ਸਿਖਣ ਨੂੰ ਮਿਲੇਂਗੀ . </string>
+    <string name="videos"> ਵੀਡੀਔ </string>
+    <string name="videos_title"> ਅਧਿਆਪਨ ਵੀਡੀਓ </string>
+    <string name="view"> ਵੇਖੋ </string>
+    <string name="view_details">विवरण देखें</string>
+    <string name="you_will_be_able"> ਤੁਸੀ ਉੱਤੇ ਇਸ ਪ੍ਰਸ਼ਨੋੱਤਰੀ ਲੈਣ ਲਈ ਸਮਰੱਥਾਵਾਨ ਹੋ </string>
+    <string name="your_privacy_is_imp">ਤੁਹਾਡੀ ਗੁਪਤ ਸਾਡੇ ਲਈ ਮਹੱਤਵਪੂਰਣ ਹੈ  ।</string>
+</resources>

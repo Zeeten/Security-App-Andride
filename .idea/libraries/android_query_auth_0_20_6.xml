@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-query-auth.0.20.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/android-query-auth.0.20.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/primary"
+        android:gravity="center"
+        app:popupTheme="@style/Toolbar_Theme"
+        app:titleTextAppearance="@style/Toolbar.TitleText">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/title_name"
+                style="@style/app_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="title"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/txt_20" />
+            <!--<Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Speech"
+                android:id="@+id/btn_speech"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/tv_timer"
+                android:layout_toStartOf="@+id/tv_timer" />-->
+
+            <TextView
+                android:id="@+id/tv_timer"
+                style="@style/app_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/dim_10"
+                android:text="00:00"
+                android:textColor="@color/white_color"
+                android:textSize="@dimen/txt_20" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolBar"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp">
+
+
+        <!--<TextView
+            android:id="@+id/textView"
+            style="@style/app_font"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quiz"
+            android:textSize="20sp"
+            android:paddingBottom="@dimen/dim_5dp"
+            android:textStyle="bold" />-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+
+        <!--<Button-->
+            <!--android:id="@+id/btn_description"-->
+            <!--style="@style/btn_primary"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_marginRight="3dp"-->
+            <!--android:layout_weight="0.5"-->
+            <!--android:enabled="false"-->
+            <!--android:text="@string/description" />-->
+
+        <Button
+            android:id="@+id/btn_check"
+            style="@style/btn_primary"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_weight="0.5"
+            android:text="@string/next" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout_button"
+        android:layout_below="@+id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:fillViewport="true"
+        android:visibility="visible">
+
+        <RelativeLayout
+            android:id="@+id/questionlayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/question_no"
+                style="@style/app_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="1"
+                android:textSize="16sp" />
+            <LinearLayout
+                android:id="@+id/question_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/question_no"
+                android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textQuestion"
+                style="@style/app_font"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/question_no"
+                android:layout_toRightOf="@+id/question_no"
+                android:paddingBottom="@dimen/dim_10"
+                android:paddingLeft="3dp"
+                android:paddingRight="@dimen/dim_10"
+                android:paddingTop="@dimen/dim_10"
+                android:text="What is the capital of India?"
+                android:textSize="16sp" />
+            <ImageView
+                android:id="@+id/question_image"
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_below="@+id/textQuestion"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:visibility="gone" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/lineView"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/question_layout"
+                android:background="@color/white_smoke" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/ansRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/lineView">
+
+            </android.support.v7.widget.RecyclerView>
+
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/ans_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@color/ans_dialog_color"
+        android:clickable="true"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="33dp"
+            android:layout_marginStart="33dp"
+            android:layout_marginTop="41dp"
+            android:src="@drawable/ic_reject" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/imageView"
+            android:layout_marginLeft="10dp"
+            android:layout_toEndOf="@+id/imageView"
+            android:layout_toRightOf="@+id/imageView"
+            android:text="Oops Thas's not correct."
+            android:textColor="@color/ans_dialog_text_color"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/imageView"
+            android:layout_alignStart="@+id/imageView"
+            android:layout_below="@+id/textView2"
+            android:layout_marginBottom="20dp"
+            android:text="Correct Ans: A"
+            android:textColor="@color/ans_dialog_text_color" />
+    </RelativeLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btn_speech"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:rippleColor="@color/primary"
+        app:backgroundTint="@color/green_color"
+        app:backgroundTintMode="multiply"
+        android:src="@drawable/ic_speaker"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="5dp"
+        android:layout_above="@+id/layout_button"
+        android:layout_alignParentRight="true"/>
+
+
+</RelativeLayout>

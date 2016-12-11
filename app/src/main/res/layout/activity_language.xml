@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_smoke">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/app_toolbar" />
+
+    <TextView
+        android:id="@+id/label"
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_lang"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/linearLayout"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:id="@id/linearLayout"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spinner_shape">
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:padding="2dp"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnLanguage"
+            style="@style/btn_primary"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/next" />
+
+    </LinearLayout>
+
+</RelativeLayout>

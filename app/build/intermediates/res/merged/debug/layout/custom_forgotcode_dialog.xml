@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/forgotCode"
+        style="@style/app_font"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/primary"
+        android:gravity="center"
+        android:text="@string/forgot_code"
+        android:textColor="@color/white_color"
+        android:textSize="@dimen/txt_20" />
+
+
+    <LinearLayout
+        android:id="@+id/layout_phone"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:layout_below="@+id/forgotCode"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="@dimen/dim_15"
+        android:layout_marginLeft="@dimen/dim_15">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:background="@color/primary"
+            android:padding="4dp"
+            android:src="@drawable/ic_action_mobile" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/forgotScratchCodeText"
+                style="@style/searchEditText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:hint="@string/mobile"
+                android:imeActionId="@+id/login"
+                android:imeOptions="actionUnspecified"
+                android:inputType="number"
+                android:maxLength="10"
+                android:maxLines="1"
+
+                android:paddingLeft="@dimen/txt_10"
+                android:singleLine="true" />
+        </android.support.design.widget.TextInputLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_get_code"
+        style="@style/btn_primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_scratch_code"
+        android:layout_marginTop="35dp"
+        android:layout_marginRight="@dimen/dim_15"
+        android:layout_marginLeft="@dimen/dim_15"
+        android:layout_marginBottom="@dimen/dim_10"
+        android:layout_below="@+id/layout_phone"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

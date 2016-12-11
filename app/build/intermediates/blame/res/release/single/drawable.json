@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_775_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_775_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\qh5.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\qh5.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_777_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_777_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_927_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_927_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_784_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_784_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\new_book2.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\new_book2.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph6.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph6.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_831_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_831_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_968_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_968_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book4_hindi.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book4_hindi.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_644_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_644_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_870_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_870_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_650_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_650_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_logout.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_logout.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_925_d.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_925_d.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_888_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_888_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_white_button.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bg_white_button.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_650_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_650_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_869_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_869_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\test.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\test.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p8.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p8.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_disabled_button.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bg_disabled_button.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_749_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_749_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_925_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_925_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph8.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph8.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_914_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_914_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_969_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_969_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_888_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_888_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph2.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph2.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_805_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_805_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\qh3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\qh3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\v1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\v1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_900_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_900_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_780_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_780_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_results.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_results.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book_1.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book_1.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_708_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_708_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p4.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p4.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_circle_selected.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_circle_selected.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_primary_button.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bg_primary_button.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_977_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_977_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book_3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book_3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bh1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bh1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_955_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_955_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q8.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q8.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_955_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_955_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_948_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_948_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q7.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q7.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_817_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_817_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_notifications.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_notifications.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cinema.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\cinema.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\b2.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\b2.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\booklogo.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\booklogo.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_925_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_925_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p2.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p2.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_940_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_940_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_915_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_915_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\next_btn_click.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\next_btn_click.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_888_d.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_888_d.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\qh1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\qh1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\pressed_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\pressed_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\right.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\start_test.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\start_test.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book5.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book5.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_931_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_931_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book3_hindi.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book3_hindi.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_912_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_912_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_reports.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_reports.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_746_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_746_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\comingsoon.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\comingsoon.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\qh2.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\qh2.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_615_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_615_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_939_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_939_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\primary_button_disable_bg.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\primary_button_disable_bg.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\spinner_shape.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\spinner_shape.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_803_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_803_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_822_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_822_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\videos.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\videos.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book1_hindi.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book1_hindi.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_940_d.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_940_d.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\fab_background.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph4.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph4.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\b3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\b3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_900_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_900_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_901_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_901_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\play.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_969_d.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_969_d.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_650_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_650_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_share.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q2.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q2.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph5.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph5.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_977_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_977_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_924_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_924_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_689_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_689_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_rewards.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_rewards.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_778_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_778_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_784_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_784_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_649_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_649_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_708_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_708_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\qh6.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\qh6.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\qh4.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\qh4.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_977_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_977_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_677_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_677_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\qr_icon.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\qr_icon.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_708_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_708_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_680_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_680_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\new_book3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\new_book3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_969_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_969_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book6.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book6.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\books.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\books.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\orange_shape.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\orange_shape.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_900_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_900_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\b1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\b1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_689_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_689_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\primary_button_bg.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\primary_button_bg.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_940_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_940_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\linear_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\linear_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_style.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q4.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q4.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_954_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_954_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_853_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_853_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\anon_user.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\anon_user.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_language_select.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_language_select.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_btn.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\round_btn.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vh1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\vh1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p7.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p7.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_871_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_871_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_792_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_792_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_screen1.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bg_screen1.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_green_button.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bg_green_button.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_797_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_797_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_794_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_794_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_813_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_813_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_915_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_915_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_845_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_845_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q6.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q6.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p5.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p5.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_955_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_955_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_person.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_person.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book_4.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book_4.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bh2.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bh2.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg_button.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_714_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_714_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_records.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_records.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_circle.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_circle.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash_img.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\splash_img.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_action_home.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ic_action_home.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\left.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\q5.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\q5.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\globelogo.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\globelogo.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\snackbar_background.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bh3.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\bh3.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_955_d.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_955_d.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\quiz.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\quiz.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_650_d.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_650_d.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\p6.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\p6.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_888_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_888_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_786_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_786_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book_2.png",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book_2.png"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_915_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_915_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph1.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph1.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_940_a.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_940_a.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_689_b.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_689_b.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ph7.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\ph7.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_674_q.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_674_q.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_969_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_969_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_784_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_784_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\book2_hindi.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\book2_hindi.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_925_c.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_925_c.jpg"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\drawable\\sec_900_d.jpg",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\drawable\\sec_900_d.jpg"
+    }
+]

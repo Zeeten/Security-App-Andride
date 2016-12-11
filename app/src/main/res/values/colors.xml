@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#47639e</color>
+    <color name="primaryDark">#2f426a</color>
+    <color name="colorAccent">#47639e</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="white_smoke">#DEDEDE</color>
+
+    <color name="separator_color">#a6a6a6</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="even_list_row_color">#f2f2f2</color>
+    <color name="green_color">#76C923</color>
+    <color name="wrong_answer_color">#E23F14</color>
+    <color name="transparent_color">#00000000</color>
+    <color name="ans_dialog_color">#FEECEA</color>
+    <color name="ans_dialog_text_color">#E23F14</color>
+    <color name="ans_dialog_right_color">#F4FFD4</color>
+    <color name="red_light">#e74c3c</color>
+    <color name="orange">#FF9901</color>
+</resources>

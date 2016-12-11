@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white_smoke">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/app_toolbar" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/online_payment_text"
+        android:id="@+id/payTxtHeader"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:padding="2dp"
+        android:textColor="@color/primary"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/toolBar"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/payTxtHeader"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/linearLayout8">
+
+        <TextView
+            android:id="@+id/signupError"
+            style="@style/app_font"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textColor="@color/red_light"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/name"
+                style="@style/app_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/name"
+                android:textSize="@dimen/txt_20"
+                android:padding="@dimen/dim_5dp"/>
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="50dp"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:background="@color/primary"-->
+                <!--android:padding="10dp"-->
+                <!--android:src="@drawable/ic_action_username" />-->
+
+            <!--<android.support.design.widget.TextInputLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent">-->
+
+                <!--<EditText-->
+                    <!--android:id="@+id/name"-->
+                    <!--style="@style/searchEditText"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:background="@null"-->
+                    <!--android:hint="@string/name"-->
+                    <!--android:imeActionId="@+id/login"-->
+                    <!--android:imeOptions="actionUnspecified"-->
+                    <!--android:inputType="text"-->
+                    <!--android:maxLines="1"-->
+                    <!--android:paddingLeft="@dimen/txt_10"-->
+                    <!--android:singleLine="true" />-->
+
+            <!--</android.support.design.widget.TextInputLayout>-->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/number"
+                style="@style/app_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/mobile"
+                android:textSize="@dimen/txt_20"
+                android:padding="@dimen/dim_5dp"/>
+
+            <!--<ImageView-->
+                <!--android:layout_width="50dp"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:background="@color/primary"-->
+                <!--android:padding="4dp"-->
+                <!--android:src="@drawable/ic_action_mobile" />-->
+
+            <!--<android.support.design.widget.TextInputLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent">-->
+
+                <!--<EditText-->
+                    <!--android:id="@+id/number"-->
+                    <!--style="@style/searchEditText"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--android:background="@null"-->
+                    <!--android:hint="@string/mobile"-->
+                    <!--android:imeActionId="@+id/login"-->
+                    <!--android:imeOptions="actionUnspecified"-->
+                    <!--android:inputType="number"-->
+                    <!--android:maxLength="10"-->
+                    <!--android:maxLines="1"-->
+                    <!--android:paddingLeft="@dimen/txt_10"-->
+                    <!--android:singleLine="true" />-->
+            <!--</android.support.design.widget.TextInputLayout>-->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/email"
+                style="@style/app_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/email"
+                android:textSize="@dimen/txt_20"
+               android:padding="@dimen/dim_5dp"/>
+
+            <!--<ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:background="@color/primary"
+                android:padding="10dp"
+                android:src="@drawable/ic_action_email" />
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <EditText
+                    android:id="@+id/email"
+                    style="@style/searchEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:hint="@string/email"
+                    android:imeActionId="@+id/login"
+                    android:imeOptions="actionUnspecified"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"
+                    android:paddingLeft="@dimen/txt_10"
+                    android:singleLine="true" />
+            </android.support.design.widget.TextInputLayout>-->
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sgx_scratch_code"
+        android:id="@+id/sgxCode"
+        android:textColor="@color/primary"
+        android:textSize="18sp"
+        style="@style/app_font"
+        android:layout_below="@+id/linearLayout8"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/inr_200.00"
+        android:textSize="18sp"
+        android:layout_marginTop="8dp"
+        style="@style/app_font"
+        android:textColor="@color/primary_text"
+        android:id="@+id/textView13"
+        android:layout_below="@+id/sgxCode"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/validation_150_days"
+        android:textSize="18sp"
+        android:layout_marginTop="5dp"
+        style="@style/app_font"
+        android:textColor="@color/secondary_text"
+        android:id="@+id/textView14"
+        android:layout_below="@+id/textView13"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:id="@+id/checkboxLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView14"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/checkbox_terms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/checkbox_style"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tnc"
+            style="@style/app_font"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="left|center"
+            android:gravity="left|center"
+            android:textSize="15sp"
+            android:paddingLeft="10dp"
+            android:text="@string/term_and_condition"
+            android:textColor="@color/secondary_text" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/submit"
+        style="@style/btn_primary"
+        android:layout_below="@id/checkboxLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/btn_text_pay_now" />
+
+</RelativeLayout>

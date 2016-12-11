@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+
+    <TextView
+        style="@style/app_font"
+        android:id="@+id/tv_quiz_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="8dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="5dp"
+        android:textColor="@color/primary_text"
+        android:text="1. "
+        android:visibility="gone"/>
+
+    <TextView
+        style="@style/app_font"
+        android:id="@+id/tv_quiz_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/tv_quiz_no"
+        android:text="Quiz- 1"
+        android:textSize="16sp"
+        android:textColor="@color/primary_text" />
+
+    <TextView
+        style="@style/app_font"
+        android:id="@+id/tv_quiz_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_quiz_name"
+        android:layout_below="@+id/tv_quiz_name"
+        android:layout_marginTop="2dp"
+        android:text="12th Nov"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/secondary_text"
+        android:textSize="12sp" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5/10"
+        android:id="@+id/tv_quiz_result"
+        android:textSize="@dimen/txt_18"
+        android:layout_marginRight="@dimen/dim_10"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/iv_start_quiz"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="@dimen/dim_10"
+        android:src="@drawable/ic_next"/>
+</RelativeLayout>

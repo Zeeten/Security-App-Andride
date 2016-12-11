@@ -1,0 +1,331 @@
+<resources>
+    <string name="app_name">Security Skills</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="tamil">તમિલ</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="marathi">मराठी</string>
+    <string name="bengali">বাঙালি</string>
+    <string name="oriya">ନୀୟ</string>
+    <string name="assamese">অসমীয়া</string>
+    <string name="urdu">اردو</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="request_couldnt_be_completed">Your request could not be completed at this time. Please try again later.</string>
+    <string name="select_lang">Please select your preferred language</string>
+    <string name="quit">QUIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="title_activity_lyrics">LyricsActivity</string>
+    <string name="re_download">RE-DOWNLOAD BOOK</string>
+    <string name="re_download_text">This book does not exist. Please re-download book</string>
+
+
+    <!--Quiz text-->
+    <string name="quiz">CSSD QUIZ</string>
+    <string name="check">CHECK</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="next">NEXT</string>
+    <string name="close">CLOSE</string>
+
+    <!--SignUp screen-->
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="email">Email</string>
+    <string name="company_name">Company Name</string>
+    <string name="signup">SIGN UP</string>
+    <string name="progress_text_register">User register. Please Wait...</string>
+
+    <!-- otp screen -->
+    <string name="otp">Enter OTP</string>
+    <string name="your_privacy_is_imp">Your privacy is important to us.</string>
+    <string name="plz_enter_otp">Please enter the OTP code and verify your mobile number</string>
+    <string name="verify">VERIFY</string>
+    <string name="resend_otp">RESEND OTP CODE</string>
+
+    <!-- payment screen -->
+    <string name="online_payment_text">Enter the following details and submit. After you will receive our bank details via email and SMS to make payment for SGX Scratch Code</string>
+    <string name="bank_deposit_text">You will receive our bank details via email and SMS to make payment for SGX Scratch Code</string>
+    <string name="payment_confirm_text">We have received your payment successfully. You will receive a 8 digit activation code to your registered mobile and to your email. Kindly enter the received activation code to activate your application and avail full benefits.</string>
+    <string name="payment_successful">Payment Successful !!!</string>
+    <string name="payment_deposit_text">We have received your request successfully. You will receive our bank details on your email and phone. To receive the activation code you need to deposit INR 120.00 in our bank a/c post confirmation of your payment we will send you the activation code to your mobile and email.</string>
+
+    <!--search affiliates screen-->
+    <string name="search_affiliates_text">Filter your location from below given option and find affiliates nearer to your location to buy a SGX scratch card.</string>
+    <string name="search_affiliates_title">Search Affiliates</string>
+    <string name="loading_affiliates_please_wait">Loading Affiliates...Please wait</string>
+    <string name="books">BOOKS</string>
+
+    <!--scratch code screen-->
+    <string name="buy_scratchcode">Buy Scratch Code?</string>
+    <string name="dont_have_scratch_code">Don\'t have a scratch code</string>
+    <string name="or">OR</string>
+    <string name="forgot_scratch_code">Forgot Scratch Code?</string>
+    <string name="free_trial">Free trial for 5 days</string>
+    <string name="proceed">PROCEED</string>
+    <string name="enter_scratch_code">Enter Scratch Code</string>
+    <string name="view">VIEW</string>
+    <string name="practise_test">PRACTICE TEST</string>
+    <string name="practise_test_small">Practice Test</string>
+    <string name="videos">VIDEOS</string>
+    <string name="scratch_code">Scratch Code</string>
+    <string name="please_enter_valid_scratch_code">Please enter valid scratch code</string>
+    <string name="continue_">CONTINUE</string>
+
+    <string name="scratch_code_not_found">Scratch Code not found</string>
+    <string name="scratch_code_sms_sent">Scratch code will be send to your number.</string>
+    <string name="start_trial_please_wait">Start trial ...Please wait.</string>
+    <string name="sending_code_Please_wait">Sending code...Please wait.</string>
+    <string name="not_valid_scratch_code">Invalid Scratch Code</string>
+    <string name="verify_scratch_code">Verify Scratch Code ...</string>
+    <string name="day_remaining_in_your_trial_period">day remaining in your trial period</string>
+    <string name="days_remaining_in_your_trial_period">days remaining in your trial period</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="buy_online">Buy Online</string>
+    <string name="via_affiliates">Via Affiliates</string>
+    <string name="forgot_code">Forgot Code</string>
+    <string name="get_scratch_code">Get Scratch Code</string>
+    <string name="scratch_code_text">Scratch code is given in your handbook.</string>
+
+    <string name="expired_trial_period">Your trial period has expired</string>
+    <string-array name="state_array">
+        <item>Select State</item>
+        <item>Andra Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Goa</item>
+        <item>Uttrakhand</item>
+        <item>Gujarat</item>
+        <item>Himachal Pradesh</item>
+    </string-array>
+
+    <string-array name="district_array">
+        <item>Select District</item>
+        <item>almora</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Goa</item>
+        <item>Uttrakhand</item>
+        <item>Gujarat</item>
+        <item>Himachal Pradesh</item>
+    </string-array>
+
+    <string-array name="location_array">
+        <item>Select Location</item>
+        <item>Andra Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Goa</item>
+        <item>Uttrakhand</item>
+        <item>Gujarat</item>
+        <item>Himachal Pradesh</item>
+    </string-array>
+
+    <!--Award notification screen-->
+    <string name="back">BACK</string>
+
+    <!--start test screen-->
+    <string name="start_test">START TEST</string>
+    <string name="complete_the_test.">Complete the test.</string>
+    <string name="questions">Questions</string>
+    <string name="minutes">Minutes</string>
+
+    <!--book details screen-->
+    <string name="book1_description">The HONHAAR GUARD books; Basic and Advanced, are primarily addressed to the security guards and the security staff. Both work in unison, one in the field and the other operating from office, serving as backend support to the security guards who are deployed for various security and allied duties, day and night, all over the country.</string>
+    <string name="by_s_kaul">By S Kaul</string>
+    <string name="book_publisher">Kissmat International Publications</string>
+    <string name="book_title_1">Student Handbook\nUnarmed &amp; Armed Security Guards</string>
+    <string name="book_title_2">Recognition of Prior Learning\nUnarmed &amp; Armed Security Guards</string>
+    <string name="book_title_3">Participant Handbook\nUnarmed Security Guards</string>
+    <string name="book_title_4">Interactive Sessions\nUnarmed &amp; Armed Security Guards</string>
+    <string name="book_title_5">YOU CAN BECOME\n A HoNahaar Guard\n BOOK 1 : BASIC</string>
+    <string name="book_title_6">YOU CAN BECOME\n A HoNahaar Guard\n BOOK 2: ADVANCED</string>
+    <string name="basic">(BASIC)</string>
+    <string name="advance">(ADVANCE)</string>
+    <string name="english_ver">(ENGLISH VERSION)</string>
+    <string name="hindi_ver">(HINDI VERSION)</string>
+    <string name="edit">SAVE</string>
+
+    <!--AwardActivity screen -->
+    <string name="award_notification_title">Award Notification</string>
+    <string name="after_100_days">After 100 days</string>
+
+    <!--Bank Deposit Screen-->
+    <string name="online_payment_title">Online Payment</string>
+
+    <string name="error_message_name">Please enter your name</string>
+    <string name="error_message_email">Please enter a valid email address</string>
+    <string name="error_message_address">Please enter address</string>
+    <string name="error_message_number">Please enter valid phone number</string>
+    <string name="error_message_max_10">Number must be 10 digits long.</string>
+    <string name="btn_text_pay_now">PAY NOW ONLINE</string>
+    <string name="btn_submit">SUBMIT</string>
+
+    <!--BookDetailsActivity screen-->
+    <string name="book_details_book_title">Book</string>
+
+    <!--Book Reader Activity screen-->
+    <string name="home_title">Home</string>
+    <string name="file_not_found">File Not Found</string>
+    <string name="io_found">IO Found</string>
+
+    <!--Book Activity screen text-->
+    <string name="books_title">Books</string>
+
+    <!--notification screen -->
+    <string name="notification_title">Notifications</string>
+    <string name="loading_notification">Loading Notifications...</string>
+    <string name="no_internet">No Internet !!</string>
+    <string name="no_internet_message">Not connected to the network right now. Please turn it on and try again later</string>
+    <string name="ok">Ok</string>
+
+    <!--online payment Activity-->
+    <string name="generating_scratch_code">Generating Scratch Code ...</string>
+
+    <!--profile Activity-->
+    <string name="profile_title">Profile</string>
+
+    <!--question description screen-->
+    <string name="question_description_title">Question Description</string>
+    <string name="quiz_list">CSSD Quiz</string>
+    <string name="question">Question-</string>
+    <string name="description_small">Description</string>
+
+    <!--Quiz question activity screeen-->
+    <string name="quiz_question_title">CSSD Quiz</string>
+    <string name="are_you_want_to_quit">Are you want to quit?</string>
+    <string name="activate_scratch_code">Activate Scratch Code</string>
+    <string name="you_will_be_able">You will be able to take this quiz on</string>
+
+    <!--Quiz Report activity screen-->
+    <string name="report">Report</string>
+
+    <!--language screen-->
+    <string name="language_title">Language</string>
+    <string name="download_book">Downloading book...</string>
+    <string name="load_book">Loading...</string>
+    <!--otp screen-->
+    <string name="otp_screen_title">Verify Your Number</string>
+    <string name="verifying_otp">Verifying OTP...</string>
+    <string name="incorrect_otp">Incorrect OTP. Please check again and re-enter OTP</string>
+    <string name="otp_error">Error : Something went wrong. Please try again later.</string>
+    <string name="generating_otp">Generating OTP...</string>
+    <string name="otp_receivied_on_number">OTP code will be received soon on this number :</string>
+    <string name="verify_otp_title">Verify OTP</string>
+    <string name="sms_confirmation">Your mobile number is not verified.\nWe will send a SMS with a confirmation code to this number.></string>
+    <string name="videos_title">Training Videos</string>
+    <string name="tag_test_id">tag_test_id</string>
+    <string name="bank_deposit">Bank Deposit</string>
+    <string name="tag_attempted">tag_attempted</string>
+    <string name="view_details">VIEW DETAILS</string>
+    <string name="thirty_min">Time - 30 minutes</string>
+    <string name="thirty_ques">Questions - 30</string>
+    <string name="sixty_min">Time - 60 minutes</string>
+    <string name="sixty_ques">Questions - 60</string>
+    <string name="hundred_min">Time - 100 minutes</string>
+    <string name="hundred_ques">Questions - 100</string>
+    <string name="levelOne">LEVEL - I</string>
+    <string name="levelTwo">LEVEL - II</string>
+    <string name="levelThree">LEVEL - III</string>
+    <string name="QuizlevelOne">CSSD Quiz Level - I</string>
+    <string name="QuizlevelTwo">CSSD Quiz Level - II</string>
+    <string name="QuizlevelThree">CSSD Quiz Level - III</string>
+    <string name="re_test">RE-TEST</string>
+    <string name="back_to_quiz">BACK TO QUIZ</string>
+    <string name="verifying_eligibility">Verifying Eligibility...</string>
+
+    <!--Bank deposit-->
+    <string name="sgx_scratch_code">SGX Scratch Code</string>
+    <string name="inr_200.00">INR 200.00</string>
+    <string name="validation_150_days">Validity 150 Days</string>
+    <string name="term_and_condition">I agree the following Terms and Conditions.</string>
+
+    <!--BookDetail Activity-->
+    <string name="released_soon">(Being Released Shortly)</string>
+    <string name="download_now">Download Now</string>
+    <string name="isbn">ISBN</string>
+    <string name="publisher">PUBLISHER</string>
+    <string name="publisher_name">Kissmat International Publications</string>
+    <string name="read_book">Read Book...</string>
+
+    <!--Practise test screen-->
+    <string name="time_up">Time\'s up!</string>
+    <string name="option_is">Option.</string>
+    <string name="answer_option_no">ABCDEF</string>
+    <string name="minutes_left">minutes left</string>
+
+    <string name="correct_answer">Correct answer</string>
+    <string name="incorrect_answer">Incorrect answer</string>
+
+    <!--ReportActivity screen-->
+    <string name="test_number">Test Number : </string>
+    <string name="time">Time</string>
+    <string name="score">Score</string>
+    <string name="date">Date</string>
+    <string name="attempt">Attempt</string>
+    <string name="grade_a">Grade : A</string>
+    <string name="grade_b">Grade : B</string>
+    <string name="grade_c">Grade : C</string>
+    <string name="grade_d">Grade : D</string>
+    <string name="grade_e">Grade : E</string>
+
+    <!--splash screen-->
+    <string name="the_academic_world">The academic world,</string>
+    <string name="the_academic_community">The academic community,</string>
+    <string name="academe">Academe...</string>
+
+    <!--train video-->
+    <string name="google_term_condition">The content provided is this app is available in public domain."
+    + " All videos provided are publicly available on Youtube."
+    + " If you believe your copyright is being infringed, please contact www.youtube.com and request for necessary action."
+    + " Although we have attempted to provide accurate information, we assume no responsibility for the accuracy of the information provide through this app."
+    + " This app requires 2G/3G/Wifi Internet Connection.</string>
+
+    <string name="disclaimer">Disclaimer</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+
+    <!--verify number screen-->
+    <string name="number_verification">Number Verification</string>
+    <string name="number_verification_sms_text">Your mobile number is not verified. We will send a SMS with a confirmation code to this number.</string>
+
+    <!--Home Screen-->
+    <string name="test_reports">Test Reports</string>
+    <string name="quiz_results">CSSD QUIZ Results</string>
+    <string name="awards">Awards</string>
+    <string name="academic_world_records">Academic World Records</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="feature_coming_soon">Coming soon...</string>
+
+    <!--Videos Url-->
+    <string name="main_guide_line_url">IQREA-PdZvk</string>
+    <string name="book_guide_line_url">cwZWh5WwXRc</string>
+    <string name="practice_test_guide_line_url">VkhXp1QIQDk</string>
+    <string name="cssd_quiz_guide_line_url">Nf37X9U9jus</string>
+    <string name="video_part_guide_line_url">2IpvLsjTKKA</string>
+    <string name="skip">SKIP</string>
+    <string name="guid">GUIDE</string>
+    <string name="share">Share</string>
+    <string name="bookpage1">In this section you will find Handbook and Interactive Sessions book.  To download a book in your App, first click on the book icon, then click on Download Now option and wait until the book is downloaded.</string>
+    <string name="bookpage2">Click on this book.</string>
+    <string name="bookpage3">Click here to download the book. Book will download automatically in App and after download you will get a notification.</string>
+    <string name="testpage1">In this section you will get a chance to develop your skills continuously. For this you will get opportunity for three practice tests in three different levels.  In first practice test you will get 10 questions per day for 30 days. By solving 300 questions in 30 days you will complete level 1.</string>
+    <string name="testpage2">Similarly, in second and third practice tests you would have completed level 2 and level 3 by solving 300 and 400 questions respectively. By this way you can master 1000 questions &amp; answers by participating in this section, in your own time.  After good practice, you will be able to participate in different quiz competitions and win attractive awards too.</string>
+    <string name="testpage3">Click here to start learning from practice test.</string>
+    <string name="testpage4">Click here to start test.</string>
+    <string name="testpage5">Click here to select a correct answer. Click here to listen to the question.</string>
+    <string name="testpage6">Click here to check your answer.</string>
+    <string name="testpage7">Click here to solve the next question.</string>
+    <string name="testpage8">After completing practice test 1, this screen will appear to show your report, wherein, you can view your score, time, attempt, grade and date.   Similarly, continue to solve all practice tests and continue to develop your skills.</string>
+    <string name="videopage1">Training videos are of two types. Some training videos you can view &amp; learn directly and some training videos you can view and learn with the help of QR codes.</string>
+
+</resources>

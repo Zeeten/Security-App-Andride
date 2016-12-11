@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/layout">
+
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:id="@+id/imageView4"
+        android:layout_margin="5dp"
+        android:src="@drawable/ic_action_notifications"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:singleLine="true"
+        android:textColor="@color/primary_text"
+        android:layout_marginTop="10dp"
+        android:id="@+id/notificationTitle"
+        android:textSize="16sp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imageView4"
+        android:layout_toEndOf="@+id/imageView4" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/notificationDesc"
+        android:singleLine="false"
+        android:textColor="@color/secondary_text"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:paddingBottom="5dp"
+        android:layout_below="@+id/createdDate"
+        android:layout_alignLeft="@+id/notificationTitle" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:id="@+id/createdDate"
+        android:textSize="10sp"
+        android:layout_below="@+id/notificationTitle"
+        android:layout_toRightOf="@+id/imageView4"
+        android:layout_toEndOf="@+id/imageView4" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:layout_marginRight="@dimen/dim_5dp"
+        android:textColor="@color/primary"
+        android:padding="5dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:id="@+id/deleteNotification"
+        android:layout_alignTop="@+id/notificationTitle"
+        android:layout_alignRight="@+id/notificationDesc"
+        android:layout_alignEnd="@+id/notificationDesc"
+        android:visibility="gone"/>
+</RelativeLayout>

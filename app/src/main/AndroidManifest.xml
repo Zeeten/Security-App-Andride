@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.acmatics.securityguardexchange">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <permission
+        android:name="com.acmatics.securityguardexchange.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.acmatics.securityguardexchange.permission.C2D_MESSAGE" />
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:name="com.acmatics.securityguardexchange.app.SecuritySkillsApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreenActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BookReaderActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"></activity>
+        <activity
+            android:name=".SignUpActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".VerifyOtpActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".ScratchCodeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".SelectLanguageActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".HomeActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".ReportActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PractiseTestActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".QuizListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".QuizAllReportsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BooksActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".BookDetailsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".QuestionDescriptionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TrainingVideosActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".NotificationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OnlinePaymentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StartTestActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SearchAffiliatesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BankDepositActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".VerifyNumberActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AwardActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ProfileActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity
+            android:name=".PracticeListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".QuizActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".GuidlineVideos"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ImageShowFullView"
+            android:screenOrientation="portrait" />
+        <!-- video -->
+        <activity
+            android:name=".PlayerActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden">
+            <meta-data
+                android:name="minVersion"
+                android:value="9" />
+            <meta-data
+                android:name="isLaunchableActivity"
+                android:value="true" />
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".TrainingVideosActivity" />
+        </activity>
+        <activity
+            android:name=".LyricsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".WebViewActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StatusActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".ScanQRActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AcademicRecordsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FullViewVideo"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".InteractiveSessionsBook"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

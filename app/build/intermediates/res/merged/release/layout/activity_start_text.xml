@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/app_toolbar" />
+
+    <LinearLayout
+        android:id="@+id/lay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/toolBar"
+        android:layout_centerHorizontal="true"
+        android:background="@color/white_smoke"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/testQuestions"
+            style="@style/app_font"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textColor="@color/primary"
+            android:text="10 \n Questions"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/separator_color"/>
+
+        <TextView
+            android:id="@+id/testMinutes"
+            style="@style/app_font"
+            android:layout_width="0dp"
+            android:textSize="16sp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:textColor="@color/primary"
+            android:gravity="center"
+            android:text="30 \n Minutes"
+             />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/separator_color"
+        android:layout_below="@+id/lay"></View>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView4"
+        android:background="@drawable/start_test"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/start_test"
+        android:gravity="center"
+        android:background="@color/primary"
+        android:id="@+id/tv_start_test"
+        android:textSize="@dimen/txt_20"
+        android:textColor="@color/white_color"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/complete_the_test."
+        android:id="@+id/textView12"
+        android:textSize="@dimen/txt_20"
+        android:layout_marginTop="@dimen/dim_20"
+        android:layout_below="@+id/imageView4"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

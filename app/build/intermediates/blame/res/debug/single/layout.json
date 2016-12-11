@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lyrics.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_lyrics.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_reader.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_book_reader.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_dropdown_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_video.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\dialog_video.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz_list.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_quiz_list.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\merge_camera_preview_view_finder.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\me.dm7.barcodescanner\\core\\1.8.4\\res\\layout\\merge_camera_preview_view_finder.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_training_videos.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_training_videos.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_language.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_forgotcode_dialog.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\custom_forgotcode_dialog.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz_question.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_quiz_question.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bank_deposit.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_bank_deposit.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\training_video_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\training_video_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scratch_code.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_scratch_code.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guidline_videos.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_guidline_videos.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_full_view.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_image_full_view.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\pager_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fullview_activity.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\fullview_activity.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_online_payment.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_online_payment.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_table_of_contents.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\fragment_table_of_contents.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_interactive_session_drawer.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\fragment_interactive_session_drawer.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz_listing.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_quiz_listing.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_interective_session.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\fragment_interective_session.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_list_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_detail.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_deposit_dialog.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\custom_deposit_dialog.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_affiliates.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_search_affiliates.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\fragment_navigation_drawer.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_single_page.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\fragment_single_page.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz_report.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_quiz_report.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_quiz_list.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\custom_quiz_list.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_interactive_session_book.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_interactive_session_book.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\answer_list_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\answer_list_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\practise_list_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\practise_list_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_status.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_awards.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_awards.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify_otp.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_verify_otp.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quiz_reports_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\quiz_reports_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_toolbar.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\app_toolbar.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_description.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_question_description.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_text.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_start_text.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\affiliates_list_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\affiliates_list_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_books.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_books.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\attempted_test_list.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\attempted_test_list.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_payment_dialog.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\custom_payment_dialog.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_success_dialog.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\custom_success_dialog.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attempted_test.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_attempted_test.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verify_number.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_verify_number.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_quiz_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_quiz_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\award_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\award_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toc_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\toc_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quiz_list_item.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\quiz_list_item.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_quiz_reports.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_all_quiz_reports.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\training_video_items.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\training_video_items.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_award_notification.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_award_notification.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_player.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    }
+]

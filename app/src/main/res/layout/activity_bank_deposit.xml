@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_smoke"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/app_toolbar" />
+
+    <TextView
+        android:id="@+id/payTxtHeader"
+        style="@style/app_font"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:padding="2dp"
+        android:text="@string/bank_deposit_text"
+        android:textColor="@color/primary"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/payTxtHeader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/signupError"
+            style="@style/app_font"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textColor="@color/red_light"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/name"
+                style="@style/app_font"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/name"
+                android:visibility="gone"
+                android:textSize="@dimen/txt_20" />
+
+
+            <!--<ImageView-->
+            <!--android:layout_width="50dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@color/primary"-->
+            <!--android:padding="10dp"-->
+            <!--android:src="@drawable/ic_action_username" />-->
+
+            <!--<android.support.design.widget.TextInputLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+            <!--<EditText-->
+            <!--android:id="@+id/name"-->
+            <!--style="@style/searchEditText"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@null"-->
+            <!--android:hint="@string/name"-->
+            <!--android:imeActionId="@+id/login"-->
+            <!--android:imeOptions="actionUnspecified"-->
+            <!--android:inputType="text"-->
+            <!--android:maxLines="1"-->
+            <!--android:paddingLeft="@dimen/txt_10"-->
+            <!--android:singleLine="true" />-->
+
+            <!--</android.support.design.widget.TextInputLayout>-->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/mobile"
+                android:clickable="false"
+                android:gravity="center"
+                android:enabled="false"
+                android:textSize="@dimen/txt_20" />
+
+            <!--<ImageView-->
+            <!--android:layout_width="50dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@color/primary"-->
+            <!--android:padding="4dp"-->
+            <!--android:src="@drawable/ic_action_mobile" />-->
+
+            <!--<android.support.design.widget.TextInputLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent">-->
+
+            <!--<EditText-->
+            <!--android:id="@+id/number"-->
+            <!--style="@style/searchEditText"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@null"-->
+            <!--android:hint="@string/mobile"-->
+            <!--android:imeActionId="@+id/login"-->
+            <!--android:imeOptions="actionUnspecified"-->
+            <!--android:inputType="number"-->
+            <!--android:maxLength="10"-->
+            <!--android:maxLines="1"-->
+            <!--android:paddingLeft="@dimen/txt_10"-->
+            <!--android:singleLine="true" />-->
+            <!--</android.support.design.widget.TextInputLayout>-->
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:gravity="center"
+                android:textSize="@dimen/txt_20" />
+
+            <!--<ImageView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:background="@color/primary"
+                android:padding="10dp"
+                android:src="@drawable/ic_action_email" />
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <EditText
+                    android:id="@+id/email"
+                    style="@style/searchEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:hint="@string/email"
+                    android:imeActionId="@+id/login"
+                    android:imeOptions="actionUnspecified"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"
+                    android:paddingLeft="@dimen/txt_10"
+                    android:singleLine="true" />
+            </android.support.design.widget.TextInputLayout>-->
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/submit"
+        style="@style/btn_primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearLayout8"
+        android:layout_margin="10dp"
+        android:text="@string/btn_submit" />
+
+</RelativeLayout>

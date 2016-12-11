@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_out.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\custom_anim.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\custom_anim.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_in.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\bottom_down.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in2.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\fade_in2.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in3.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\fade_in3.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\bottom_up.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\zoom_in.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in4.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\fade_in4.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "E:\\bitbucketworkspace\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\fab_in.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "E:\\bitbucketworkspace\\app\\build\\intermediates\\res\\merged\\release\\anim\\fab_out.xml",
+        "source": "E:\\bitbucketworkspace\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_out.xml"
+    }
+]

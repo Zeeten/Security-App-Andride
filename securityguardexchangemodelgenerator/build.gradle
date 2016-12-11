@@ -1,0 +1,8 @@
+apply plugin: 'application'
+apply plugin: 'java'
+
+mainClassName = "com.acmatics.securityguardexchange.generator.SecurityGuardExchangeModelGenertor"
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'de.greenrobot:greendao-generator:2.1.0'
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/app_toolbar" />
+
+    <RelativeLayout
+        android:id="@+id/layoutText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnBack"
+        android:layout_below="@+id/toolBar">
+
+
+        <TextView
+            style="@style/app_font"
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:text="Just copy this text"
+            android:layout_marginTop="@dimen/dim_10"
+            android:textSize="@dimen/txt_28"
+            android:textStyle="bold" />
+
+        <TextView
+            style="@style/app_font"
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView8"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="42dp"
+            android:padding="@dimen/dim_10"
+            android:scrollbars="vertical"
+            android:text="VideoView: This class is basically used to for the display of Video File.\n\n VideoView can also be used to load images for the various sources, having information about their measurements computation from the video so that images can be used in any kind of layout manager.\n\n Here are below important methods of this class:
+\nRead more: http://mrbool.com/how-to-play-video-formats-in-android-using-videoview/28299#ixzz3tQjMnDdP"
+            android:textSize="@dimen/txt_18" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnBack"
+        style="@style/btn_primary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/back" />
+</RelativeLayout>

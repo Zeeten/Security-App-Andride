@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/trainingVideoView" />
+
+    <Button
+        style="@style/btn_primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Play"
+        android:layout_margin="3dp"
+        android:id="@+id/btn_play"
+        android:layout_below="@+id/trainingVideoView"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

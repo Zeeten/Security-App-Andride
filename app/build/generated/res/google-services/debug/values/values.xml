@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga_trackingId" translatable="false">UA-77279039-2</string>
+    <string name="gcm_defaultSenderId" translatable="false">898211570879</string>
+    <string name="google_app_id" translatable="false">1:898211570879:android:1c7c67a39af3c5f4</string>
+</resources>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout_button"
+        android:layout_below="@+id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:fillViewport="true"
+        android:visibility="visible">
+
+        <android.support.design.widget.CoordinatorLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RelativeLayout
+                android:id="@+id/questionlayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/question_no"
+                    style="@style/app_font"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="1"
+                    android:textSize="16sp" />
+
+                <LinearLayout
+                    android:id="@+id/question_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/question_no"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textQuestion"
+                        style="@style/app_font"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="@dimen/dim_10"
+                        android:paddingLeft="3dp"
+                        android:paddingRight="@dimen/dim_10"
+                        android:paddingTop="@dimen/dim_10"
+                        android:text="What is the capital of India?"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/question_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_below="@+id/textQuestion"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="10dp"
+                        android:visibility="gone" />
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/lineView"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_below="@+id/question_layout"
+                    android:background="@color/white_smoke" />
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/ansRecyclerView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/lineView"
+                    android:layout_above="@+id/layoutCheck">
+                </android.support.v7.widget.RecyclerView>
+                <RelativeLayout
+                    android:id="@+id/layoutCheck"
+                    android:layout_width="match_parent"
+                    android:layout_height="52dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignRight="@+id/question_layout"
+                    android:layout_alignEnd="@+id/question_layout"
+                    android:paddingBottom="5dp"
+                    android:paddingRight="10dp"
+                    android:paddingLeft="10dp">
+
+                    <TextView
+                        android:layout_width="230dp"
+                        android:layout_height="match_parent"
+                        android:text="@string/check"
+                        android:id="@+id/txtCheck"
+                        android:background="@drawable/orange_shape"
+                        android:gravity="center"
+                        android:textColor="@color/white"
+                        android:textSize="16sp"
+                        android:layout_centerVertical="true"
+                        android:layout_centerHorizontal="true" />
+                </RelativeLayout>
+
+                <android.support.design.widget.FloatingActionButton
+                    android:id="@+id/fab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:layout_margin="5dp"
+                    app:rippleColor="@color/primary"
+                    app:backgroundTint="@color/primary"
+                    app:backgroundTintMode="multiply"
+                    android:src="@drawable/ic_speaker"
+                    android:layout_alignBottom="@+id/ansRecyclerView"
+                    android:layout_alignRight="@+id/question_layout" />
+
+                <!--<com.getbase.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/fab"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    fab:fab_colorNormal="@color/green_color"
+                    fab:fab_colorPressed="@color/primary"
+                    fab:fab_icon="@drawable/ic_reject"
+                    fab:fab_size="mini"
+                    fab:paddingEnd="30dp"
+                    android:layout_alignBottom="@+id/ansRecyclerView"
+                    android:layout_alignRight="@+id/question_layout" />-->
+
+            </RelativeLayout>
+        </android.support.design.widget.CoordinatorLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

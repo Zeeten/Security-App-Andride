@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_smoke"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/app_toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/dim_20"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/qLevel1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="@dimen/dim_5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/i1"
+                    style="@style/app_font"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="@dimen/dim_10dp"
+                    android:layout_marginTop="@dimen/dim_10"
+                    android:background="@drawable/round_btn"
+                    android:text="I"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/t1"
+                    style="@style/app_font"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/i1"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="@dimen/dim_10dp"
+                    android:layout_toRightOf="@+id/i1"
+                    android:text="@string/QuizlevelOne"
+                    android:textColor="@color/primary_text"
+                    android:textSize="20sp"
+                    android:singleLine="true"/>
+
+                <TextView
+                    style="@style/app_font"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="LEVEL - I"
+                    android:textColor="@color/secondary_text"
+                    android:layout_marginTop="@dimen/dim_10dp"
+                    android:id="@+id/l1"
+                    android:visibility="gone"
+                    android:layout_below="@+id/t1"
+                    android:layout_alignLeft="@+id/t1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Date : 01 Feb 2015"
+                    android:textColor="@color/secondary_text"
+                    android:id="@+id/level1_date"
+                    android:layout_alignBottom="@+id/i1"
+                    android:layout_alignLeft="@+id/t1"
+                    android:layout_alignStart="@+id/t1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/view_details"
+                    android:textColor="@color/primary"
+                    android:layout_marginRight="15dp"
+                    android:id="@+id/s1"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginBottom="10dp" />
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/qLevel2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="40dp"
+            android:layout_weight="1"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="@dimen/dim_5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/i2"
+                    style="@style/app_font"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="@dimen/dim_10dp"
+                    android:layout_marginTop="@dimen/dim_10"
+                    android:background="@drawable/round_btn"
+                    android:text="II"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/t2"
+                    style="@style/app_font"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/i2"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="@dimen/dim_10dp"
+                    android:layout_toRightOf="@+id/i2"
+                    android:text="@string/QuizlevelTwo"
+                    android:textColor="@color/primary_text"
+                    android:textSize="20sp"
+                    android:singleLine="true"/>
+
+                <TextView
+                    style="@style/app_font"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="LEVEL - II"
+                    android:textColor="@color/secondary_text"
+                    android:layout_marginTop="@dimen/dim_10dp"
+                    android:id="@+id/l2"
+                    android:visibility="gone"
+                    android:layout_below="@+id/t2"
+                    android:layout_alignLeft="@+id/t2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Date : 01 Feb 2015"
+                    android:textColor="@color/secondary_text"
+                    android:id="@+id/level2_date"
+                    android:layout_alignBottom="@+id/i2"
+                    android:layout_alignLeft="@+id/t2"
+                    android:layout_alignStart="@+id/t2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/view_details"
+                    android:textColor="@color/primary"
+                    android:layout_marginRight="15dp"
+                    android:id="@+id/s2"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginBottom="10dp" />
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/qLevel3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="40dp"
+            android:layout_weight="1"
+            app:cardCornerRadius="2dp"
+            app:cardElevation="@dimen/dim_5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/i3"
+                    style="@style/app_font"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginLeft="@dimen/dim_10dp"
+                    android:layout_marginTop="@dimen/dim_10"
+                    android:background="@drawable/round_btn"
+                    android:text="III"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/t3"
+                    style="@style/app_font"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/i3"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="@dimen/dim_10dp"
+                    android:layout_toRightOf="@+id/i3"
+                    android:singleLine="true"
+                    android:text="@string/QuizlevelThree"
+                    android:textColor="@color/primary_text"
+                    android:textSize="20sp" />
+
+                <TextView
+                    style="@style/app_font"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="LEVEL - III"
+                    android:visibility="gone"
+                    android:textColor="@color/secondary_text"
+                    android:layout_marginTop="@dimen/dim_10dp"
+                    android:id="@+id/l3"
+                    android:layout_below="@+id/t3"
+                    android:layout_alignLeft="@+id/t3" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Date : 01 Feb 2015"
+                    android:textColor="@color/secondary_text"
+                    android:id="@+id/level3_date"
+                    android:layout_alignBottom="@+id/i3"
+                    android:layout_alignLeft="@+id/t3"
+                    android:layout_alignStart="@+id/t3" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/view_details"
+                    android:textColor="@color/primary"
+                    android:layout_marginRight="15dp"
+                    android:id="@+id/s3"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginBottom="10dp" />
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</LinearLayout>

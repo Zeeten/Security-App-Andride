@@ -1,0 +1,333 @@
+<resources>
+    <string name="app_name">सिक्युरिटी स्किलस</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिंदी</string>
+    <string name="punjabi">ਪੰਜਾਬੀ</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="tamil">તમિલ</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="marathi">मराठी</string>
+    <string name="bengali">বাঙালি</string>
+    <string name="oriya">ନୀୟ</string>
+    <string name="assamese">অসমীয়া</string>
+    <string name="urdu">اردو</string>
+    <string name="navigation_drawer_open">ओपन नेविगेशन दराज</string>
+    <string name="navigation_drawer_close">बंद नेविगेशन दराज</string>
+    <string name="request_couldnt_be_completed">आपका अनुरोध इस समय पूरा नहीं किया जा सकता है। कृपया बाद में पुन: प्रयास करें।</string>
+    <string name="select_lang">अपनी पसंद की भाषा का चयन करें ।</string>
+    <string name="quit">छोड़ो</string>
+    <string name="cancel">कैंसिल </string>
+    <string name="error_player">यू टियुब प्लेयर आरंभ करने में त्रुटि था (%1$s)</string>
+    <string name="title_activity_lyrics">गीत गतिविधि</string>
+    <string name="re_download">बुक फिर से डाउनलोड करें </string>
+    <string name="re_download_text">यह पुस्तक मौजूद नहीं है । कृप्या दुबारा डाउनलोड करें ।</string>
+
+
+
+
+    <!--Quiz text-->
+    <string name="quiz">सी.एस.एस.डी. क्विज </string>
+    <string name="check">चेक</string>
+    <string name="description">विवरण</string>
+    <string name="next">अगला</string>
+    <string name="close">बंद करे</string>
+
+    <!--SignUp screen-->
+    <string name="name">नाम</string>
+    <string name="mobile">मोबाइल</string>
+    <string name="address">पता</string>
+    <string name="city">शहर</string>
+    <string name="state">प्रदेश</string>
+    <string name="country">देश</string>
+    <string name="pin_code">पिन कोड</string>
+    <string name="email">ईमेल</string>
+    <string name="company_name">कंपनी का नाम</string>
+    <string name="signup">साइन अप</string>
+    <string name="progress_text_register">उपयोगकर्ता रजिस्टर । कृपया प्रतीक्षा करें...</string>
+
+    <!-- otp screen -->
+    <string name="otp">एंटर  ओ.टी.पी.</string>
+    <string name="your_privacy_is_imp">आपकी गोपनीयता हमारे लिए महत्वपूर्ण है ।</string>
+    <string name="plz_enter_otp">ओ.टी.पी. कोड एंटर करें और अपना मोबाइल नंबर की पुष्टि करें</string>
+    <string name="verify">सत्यापित करना</string>
+    <string name="resend_otp">ओ.टी.पी. कोड पुन: भेजें</string>
+
+    <!-- payment screen -->
+    <string name="online_payment_text">विवरण दर्ज और सबमिट करें। उसके बाद आपको  ई-मेल और एसएमएस के माध्यम से हमारे बैंक विवरण प्राप्त होगा एसजीएक्स स्क्रैच कोड भुगतान करने के लिए</string>
+    <string name="payment_confirm_text">हमे सफलतापूर्वक भुगतान प्राप्त हुआ । आपको 8 अंकों का एक्टिवेशन कोड आपके पंजीकृत मोबाइल और आपके ईमेल में प्राप्त होंगे । कृपया प्राप्त हुआ एक्टिवेशन कोड आपने अप्लिकेशन मे एंटर करे और लाभ उठाये ।</string>
+    <string name="payment_successful">भुगतान सफल !!!</string>
+    <string name="payment_deposit_text">हमे सफलतापूर्वक आपका अनुरोध प्राप्त हुआ । आपको हमारा  ईमेल, फोन और बैंक विवरण प्राप्त होगा।
+एक्टिवेशन कोड प्राप्त करने के लिए आपको हमारे बैंक ए / सी में  ईएनआर 120.00  जमा  करने पड़ेंगे आपके भुगतान की पुष्टि के लिए हम आपके मोबाइल और ई-मेल पर एक्टिवेशन कोड भेज देंगे।.</string>
+
+    <!--search affiliates screen-->
+    <string name="search_affiliates_text">नीचे दिए गए विकल्प से अपने स्थान फिल्टर करे  और एसजीएक्स स्क्रैच कार्ड खरीदने के लिए अपने स्थान के आसपास सहयोगी कंपनियों को खोजे ।</string>
+    <string name="search_affiliates_title">खोजें सहबद्धों</string>
+    <string name="loading_affiliates_please_wait">सहबद्धों लोड हो रहा है ... कृपया प्रतीक्षा करें</string>
+    <string name="books">किताबें</string>
+
+    <!--scratch code screen-->
+    <string name="buy_scratchcode">स्क्रैच कोड खरीदें?</string>
+    <string name="dont_have_scratch_code">स्क्रैच कोड नहीं है</string>
+    <string name="or">या</string>
+    <string name="forgot_scratch_code">स्क्रैच कोड भूल गए हैं?</string>
+    <string name="free_trial">5 दिनों के लिए नि: शुल्क परीक्षण</string>
+    <string name="proceed">आगे बढे</string>
+    <string name="enter_scratch_code">स्क्रैच कोड एंटर करे</string>
+    <string name="view">देखें</string>
+    <string name="practise_test">प्रैक्टिस टेस्ट</string>
+    <string name="practise_test_small">प्रैक्टिस टेस्ट</string>
+    <string name="videos">वीडियो</string>
+    <string name="scratch_code">स्क्रैच कोड</string>
+    <string name="please_enter_valid_scratch_code">कृपया ठीक स्क्रैच कोड एंटर करे</string>
+    <string name="continue_">जारी</string>
+
+    <string name="start_trial_please_wait">परीक्षण शुरू ... कृपया प्रतीक्षा करें।</string>
+    <string name="sending_code_Please_wait">भेजा जा रहा है कोड ... कृपया प्रतीक्षा करें।</string>
+    <string name="not_valid_scratch_code">गलत स्क्रैच कोड</string>
+    <string name="verify_scratch_code">स्क्रैच कोड जांच करें ...</string>
+    <string name="day_remaining_in_your_trial_period">आपके परीक्षण अवधि में शेष दिन</string>
+    <string name="days_remaining_in_your_trial_period">आपके परीक्षण अवधि में शेष दिन</string>
+    <string name="payment_methods">भुगतान की विधि</string>
+    <string name="buy_online">ऑनलाइन खरीदो</string>
+    <string name="via_affiliates">सहयोगी कंपनियों के माध्यम से</string>
+    <string name="forgot_code">कोड भूल</string>
+    <string name="get_scratch_code">स्क्रैच कोड प्राप्त करें</string>
+    <string name="scratch_code_text">स्क्रैच कोड आपकी हैंडबुक में दी गई है</string>
+
+    <string-array name="state_array">
+        <item>प्रदेश चुनें</item>
+        <item>आंध्र प्रदेश</item>
+        <item>असम</item>
+        <item>बिहार</item>
+        <item>गोवा</item>
+        <item>उत्तराखंड</item>
+        <item>गुजरात</item>
+        <item>हिमाचल प्रदेश</item>
+    </string-array>
+
+    <string-array name="district_array">
+        <item>जिला चुनें</item>
+        <item>अल्मोड़ा</item>
+        <item>असम</item>
+        <item>बिहार</item>
+        <item>गोवा</item>
+        <item>उत्तराखंड</item>
+        <item>गुजरात</item>
+        <item>हिमाचल प्रदेश</item>
+    </string-array>
+
+    <string-array name="location_array">
+        <item>स्थान चुनें</item>
+        <item>आंध्र प्रदेश</item>
+        <item>असम</item>
+        <item>बिहार</item>
+        <item>गोवा</item>
+        <item>उत्तराखंड</item>
+        <item>गुजरात</item>
+        <item>हिमाचल प्रदेश</item>
+    </string-array>
+
+    <!--Award notification screen-->
+    <string name="back">वापस</string>
+
+    <!--start test screen-->
+    <string name="start_test">परीक्षण शुरू</string>
+    <string name="complete_the_test.">परीक्षण पूरा करें।</string>
+    <string name="questions">सवाल</string>
+    <string name="minutes">मिनट</string>
+
+    <!--book details screen-->
+    <string name="book1_description">होनहार  गार्ड किताबें; बेसिक और एडवांस मुख्य रूप से सुरक्षा गार्ड और सुरक्षा कर्मचारियों को संबोधित कर रहे हैं। एक सुर में दोनों काम के क्षेत्र में एक और देश भर में विभिन्न सुरक्षा और संबद्ध शुल्क, दिन और रात के लिए तैनात किए गए हैं जो सुरक्षा गार्ड को बैकएंड समर्थन के रूप में सेवारत, कार्यालय से संचालित अन्य।</string>
+    <string name="by_s_kaul">एस कौलद्वारा</string>
+    <string name="book_publisher">किस्स्मत इंटरनेशनल पब्लिकेशन्स</string>
+    <string name="basic">(आधारभूत)</string>
+    <string name="advance">(उन्नत)</string>
+    <string name="english_ver">(अंग्रेजी संस्करण)</string>
+    <string name="hindi_ver">(हिंदी संस्करण)</string>
+    <string name="edit">सेव करें</string>
+
+    <!--AwardActivity screen -->
+    <string name="award_notification_title">पुरस्कार अधिसूचना</string>
+    <string name="after_100_days">100 दिनों के बाद</string>
+
+    <!--Bank Deposit Screen-->
+    <string name="online_payment_title">ऑनलाइन भुगतान</string>
+    <string name="bank_deposit_text">आप SGX स्क्रैच कोड के लिए भुगतान करने के लिए ईमेल और एसएमएस के माध्यम से हमारे बैंक विवरण प्राप्त होगा</string>
+    <string name="error_message_name">अपना नाम दर्ज करें</string>
+    <string name="error_message_email">कृपया एक मान्य ईमेल पता प्रविष्ट करें</string>
+    <string name="error_message_address">कृपया पता दर्ज करें</string>
+    <string name="error_message_number">कृपया ठीक नंबर डालें</string>
+    <string name="error_message_max_10">संख्या 10 अंक का होना चाहिए।</string>
+    <string name="btn_text_pay_now">अब ऑनलाइन भुगतान करें</string>
+    <string name="btn_submit">जमा करें</string>
+
+    <!--BookDetailsActivity screen-->
+    <string name="book_details_book_title">किताबें</string>
+
+    <!--Book Reader Activity screen-->
+    <string name="home_title">होम</string>
+    <string name="file_not_found">फ़ाइल प्राप्त नहीं हुई</string>
+    <string name="io_found">IO मिला</string>
+
+    <!--Book Activity screen text-->
+    <string name="books_title">किताबें</string>
+    <string name="book_title_1">स्टूडेंट हैंडबुक अनआर्मड एण्ड आर्मड सिक्युरिटी गार्डस</string>
+    <string name="book_title_2">रेकिग्निशन ऑफ़ प्रायर लर्निंग अनआर्मड एण्ड आर्मड सिक्युरिटी गार्डस</string>
+    <string name="book_title_3">पार्टिसिपेंट हैंडबुक अनआर्मड सिक्युरिटी गार्डस</string>
+    <string name="book_title_4">इंटरएक्टिव शेशन अनआर्मड एण्ड आर्मड सिक्युरिटी गार्डस</string>
+    <string name="book_title_5">आप बन सकते हैं\n एक होनहार गार्ड\n पुस्तक 1 : प्रारंभिक </string>
+    <string name="book_title_6">आप बन सकते हैं\n एक होनहार गार्ड\n पुस्तक 2 : उन्नत </string>
+
+    <!--notification screen -->
+    <string name="notification_title">सूचनाएं</string>
+    <string name="loading_notification">लोड हो रहा है सूचनाएं ...</string>
+    <string name="no_internet">कोई इंटरनेट नहीं !!</string>
+    <string name="no_internet_message">अभी आप  नेटवर्क से कनेक्ट नहीं। कृपया चालू करें और बाद में पुन: प्रयास करें। </string>
+   <string name="ok">ओके </string>
+
+    <!--online payment Activity-->
+    <string name="generating_scratch_code">स्क्रैच कोड जनरेट हो रहा हे ...</string>
+
+    <!--profile Activity-->
+    <string name="profile_title">प्रोफाइल</string>
+
+    <!--question description screen-->
+    <string name="question_description_title">प्रश्न विवरण</string>
+    <string name="quiz_list">सी.एस.एस.डी. क्विज</string>
+    <string name="question">सवाल-</string>
+    <string name="description_small">विवरण</string>
+
+    <!--Quiz question activity screeen-->
+    <string name="quiz_question_title">सी.एस.एस.डी. क्विज</string>
+    <string name="are_you_want_to_quit">आप छोड़ना चाहते हैं?</string>
+    <string name="activate_scratch_code">स्क्रैच कोडा सक्रिय करें</string>
+    <string name="you_will_be_able">आप पर इस प्रश्नोत्तरी लेने के लिए सक्षम हो </string>
+
+    <!--Quiz Report activity screen-->
+    <string name="report">रिपोर्ट</string>
+    <string name="released_soon">(शीघ्र रिलीज़ होगी)</string>
+    <!--language screen-->
+    <string name="language_title">भाषा</string>
+    <string name="download_book">किताब डाउनलोड हो रही है ...</string>
+    <string name="load_book">लोड हो रहा है...</string>
+    <!--otp screen-->
+    <string name="otp_screen_title">आपका नंबर सत्यापित करें</string>
+    <string name="verifying_otp">ओटीपी पुष्टि हो रहा हे ...</string>
+    <string name="incorrect_otp">गलत ओटीपी । ओटीपी फिर से जाँच करें और फिर से दर्ज करें</string>
+    <string name="otp_error">त्रुटि: कुछ गलत हो गया । कृपया बाद में पुन: प्रयास करें।</string>
+    <string name="generating_otp">ओटीपी सृजन हो रहा हे ...</string>
+    <string name="otp_receivied_on_number">ओटीपी कोड इस नंबर पर जल्द ही प्राप्त हो जाएगा :</string>
+    <string name="verify_otp_title">ओटीपी पुष्टि करें</string>
+    <string name="sms_confirmation">आपका मोबाइल नंबर सत्यापित नहीं है।\nहम इस नंबर को एक पुष्टिकरण कोड के साथ एक एसएमएस भेज देंगे।></string>
+    <string name="videos_title">प्रशिक्षण वीडियो</string>
+    <string name="tag_test_id">टैग_परीक्षण_आईडी</string>
+    <string name="bank_deposit">बैंक जमा</string>
+    <string name="tag_attempted">टैग_प्रयास किया</string>
+    <string name="view_details">विवरण देखें</string>
+    <string name="thirty_min">समय - 30 मिनट</string>
+    <string name="thirty_ques">प्रश्न - 30</string>
+    <string name="sixty_min">समय - 60 मिनट</string>
+    <string name="sixty_ques">प्रश्न - 60</string>
+    <string name="hundred_min">समय - 100 मिनट</string>
+    <string name="hundred_ques">प्रश्न - 100</string>
+    <string name="levelOne">स्तर - I</string>
+    <string name="levelTwo">स्तर - II</string>
+    <string name="levelThree">स्तर - III</string>
+    <string name="QuizlevelOne">सी.एस.एस.डी क्विज स्तर - I</string>
+    <string name="QuizlevelTwo">सी.एस.एस.डी क्विज स्तर - II</string>
+    <string name="QuizlevelThree">सी.एस.एस.डी क्विज स्तर - III</string>
+    <string name="re_test">फिर से परीक्षण</string>
+    <string name="back_to_quiz">वापस क्विज के लिए</string>
+    <string name="verifying_eligibility">सत्यापन पात्रता...</string>
+
+    <!--Bank deposit-->
+    <string name="sgx_scratch_code">एसजीएक्स स्क्रैच कोड</string>
+    <string name="inr_200.00">भारतीय रुपया 200.00</string>
+    <string name="validation_150_days">वैधता 150 दिन</string>
+    <string name="term_and_condition">मैं निम्नलिखित नियम और शर्तों से सहमत हूँ।</string>
+
+    <!--BookDetail Activity-->
+    <string name="download_now">अभी डाउनलोड करो</string>
+    <string name="isbn">आइ.एस.बी.एन.</string>
+    <string name="publisher">प्रकाशक</string>
+    <string name="publisher_name">किस्स्मत इंटरनेशनल पब्लिकेशन्स</string>
+    <string name="read_book">किताब पढ़ो...</string>
+
+    <!--Practise test screen-->
+    <string name="time_up">समय पूर्ण हुआ!</string>
+    <string name="option_is">विकल्प!</string>
+    <string name="answer_option_no">ABCDEF</string>
+    <string name="minutes_left">मिनट शेष</string>
+
+    <string name="correct_answer">सही उत्तर</string>
+    <string name="incorrect_answer">गलत उत्तर</string>
+
+
+    <!--ReportActivity screen-->
+    <string name="test_number">टेस्ट संख्या:</string>
+    <string name="time">समय</string>
+    <string name="score">स्कोर</string>
+    <string name="date">तारीख</string>
+    <string name="attempt">प्रयास</string>
+    <string name="grade_a">ग्रेड : A</string>
+    <string name="grade_b">ग्रेड : B</string>
+    <string name="grade_c">ग्रेड : C</string>
+    <string name="grade_d">ग्रेड : D</string>
+    <string name="grade_e">ग्रेड : E</string>
+
+    <!--splash screen-->
+    <string name="the_academic_world">द अकादमिक वर्ल्ड ,</string>
+    <string name="the_academic_community">द अकादमिक कम्युनिटी,</string>
+    <string name="academe">अकादमी...</string>
+
+    <!--train video-->
+    <string name="google_term_condition">उपलब्ध कराई गई सामग्री इस एप्लिकेशन को सार्वजनिक क्षेत्र में उपलब्ध है "
+    + "प्रदान की सभी वीडियो यूट्यूब पर सार्वजनिक रूप से उपलब्ध हैं।"
+    + " आप अपने कॉपीराइट उल्लंघन किया जा रहा है पर विश्वास करते हैं, तो आवश्यक कार्रवाई के लिए www.youtube.com और अनुरोध संपर्क करें।"
+    + " हम सटीक जानकारी प्रदान करने का प्रयास किया है, हम जानकारी की सटीकता के लिए कोई जिम्मेदारी नहीं इस एप्लिकेशन के माध्यम से उपलब्ध कराने के मान।"
+    + " इस एप्लिकेशन को 2 जी / 3 जी / वाईफाई इंटरनेट कनेक्शन की आवश्यकता है।"</string>
+
+    <string name="disclaimer">त्याग</string>
+    <string name="accept">स्वीकार करना</string>
+    <string name="decline">अस्वीकार करना</string>
+
+    <!--verify number screen-->
+    <string name="number_verification">संख्या सत्यापन</string>
+    <string name="number_verification_sms_text">आपका मोबाइल नंबर सत्यापित नहीं है। हम इस नंबर को एक पुष्टिकरण कोड के साथ एक एसएमएस भेज देंगे।</string>
+
+    <!--Home Screen-->
+    <string name="test_reports">परीक्षण रिपोर्ट</string>
+    <string name="quiz_results">सी.एस.एस.डी प्रश्नोत्तरी परिणाम</string>
+    <string name="awards">पुरस्कार</string>
+    <string name="academic_world_records">शैक्षणिक वर्ल्ड रिकॉर्ड्स</string>
+    <string name="scratch_code_not_found">स्क्रैच कोड नहीं मिला</string>
+    <string name="scratch_code_sms_sent">स्क्रैच कोड आपके  नंबर पर भेज दिया जाएगा।</string>
+    <string name="expired_trial_period"> परीक्षण अवधि समाप्त हो गया है</string>
+    <string name="scan_qr">स्कैन क्यू-आर कोड</string>
+    <string name="feature_coming_soon">जल्द ही आ जाएगा...</string>
+
+    <!--Videos Url-->
+    <string name="main_guide_line_url">IQREA-PdZvk</string>
+    <string name="book_guide_line_url">cwZWh5WwXRc</string>
+    <string name="practice_test_guide_line_url">VkhXp1QIQDk</string>
+    <string name="cssd_quiz_guide_line_url">Nf37X9U9jus</string>
+    <string name="video_part_guide_line_url">2IpvLsjTKKA</string>
+    <string name="skip">छोड़ें</string>
+    <string name="guid">गाइड</string>
+    <string name="share">शेयर</string>
+    <string name="bookpage1">इस भाग में आपको हैंडबुक और इंटरएक्टिव सेशन्स की बुक मिलेंगी .किसी भी बुक को डाउनलोड करने के लिए उस बुक पर क्लिक करें और डाउनलोड होने तक इंतजार करें.</string>
+    <string name="bookpage2">इस बुक पर क्लिक करें.</string>
+    <string name="bookpage3">जब डाउनलोड करना हो तो यहाँ क्लिक करें. बुक अपने आप आपके मोबाइल में डाउनलोड हो जाएगी और डाउनलोड होने के बाद आपको मैसेज आजायेगा.</string>
+    <string name="testpage1">इस भाग में आप को लगातार आपने हुनर को बढ़ाने का मौका मिलेगा. जिसके लिए इस भाग में आप को तीन लेवल के प्रैक्टिस टेस्ट के लिए सुविधा है. पहले प्रैक्टिस टेस्ट में आप को ३० दिन तक प्रति दिन १० प्रश्न प्रैक्टिस के लिए मिलेंगी. जिस दिन से आप तैयारी का बटन दबा कर प्रैक्टिस की शुरुवात करेंगे. इस हिसाब से पहले प्रैक्टिस टेस्ट में आप ने ३०० प्रश्न उत्तर के जाँच कर लेवल १ का हुनर प लिया होगा.</string>
+    <string name="testpage2">इसी प्रकार आप को दूसरे और तीसरे प्रैक्टिस टेस्ट में ३०० और ४०० प्रश्न उत्तर के जाँच कर लेवल २ और लेवल ३ का हुनर पाने के सुविधा प्राप्त होगी. जिस में आप १००० प्रश्न उत्तर सिख चुके होंगे. इस प्रैक्टिस को अच्छी तरह करने के बाद आप क्विज कॉम्पिटिशन में हिस्सा ले कर अच्छे खासे  इनाम भी हासिल कर पाएंगे.</string>
+    <string name="testpage3">प्रैक्टिस टेस्ट से सिखने के लिए इस में क्लिक करें.</string>
+    <string name="testpage4">परीक्षण शुरू करने के लिए यहाँ क्लिक करें.</string>
+    <string name="testpage5">सही उत्तर चयन करने के लिए यहाँ क्लिक करें. प्रश्न सुनने के लिए यहाँ क्लिक करें.</string>
+    <string name="testpage6">चुने गए उत्तर को चेक करने के लिए यहाँ क्लिक करें.दिए गए प्रश्न के विवरण दिखने के लिए यहाँ क्लिक करें.</string>
+    <string name="testpage7">आगे बढ़ने या बचे हुए प्रश्नों के उत्तर देने के लिए यहाँ क्लिक करें.</string>
+    <string name="testpage8">आपको प्रैक्टिस टेस्ट १ पूरा करने के बाद इस स्क्रीन पर आपका स्कोर देखने को मिलेगा. एसे ही आप सभी प्रैक्टिस टेस्ट को करते जाइये</string>
+    <string name="videopage1">ट्रेनिंग वीडियो दो प्रकार की है. कुछ ट्रेनिंग वीडियोस आपको डायरेक्ट देखने और सिखने के लिए मिलेंगी और कुछ आपको क्यू आर कोड के द्वारा देखने और सिखने को मिलेंगी.</string>
+
+</resources>

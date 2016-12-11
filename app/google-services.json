@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "898211570879",
+    "project_id": "securityskills-ac9cb"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898211570879:android:3dc9bedc3e3c409a",
+        "android_client_info": {
+          "package_name": "com.acmatics.securityguardexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqUYv0tJaCdLe0Tvnn7r0vbrCOkyLs7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77279039-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898211570879:android:1c7c67a39af3c5f4",
+        "android_client_info": {
+          "package_name": "com.acmatics.securitygaurdexchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqUYv0tJaCdLe0Tvnn7r0vbrCOkyLs7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77279039-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
